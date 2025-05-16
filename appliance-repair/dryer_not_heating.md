@@ -54,4 +54,4 @@ This unit was recovered using a low-cost universal element replacement. Original
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
