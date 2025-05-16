@@ -154,3 +154,5 @@
 The Prolong Deluxe kit made it possible to recondition the hybrid battery at home, restoring full system function without needing to spend $2500–$3000 on a replacement pack. Mechanical repair work allowed me to restore full drivability and the reconditioning complete, the vehicle sold for a competitive price, rather than scrap value.
 
 ---
+
+_Last Updated: **May 2025**_
