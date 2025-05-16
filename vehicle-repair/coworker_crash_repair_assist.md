@@ -4,7 +4,7 @@
 - **Date:** June 30, 2024  
 - **Location:** 639 Delaware Street, Imperial Beach, San Diego County, California  
 - **Vehicle:** Acura TSX  
-- **Event:** DIY crash repair — front-end damage
+- **Event:** DIY crash repair > front-end damage
 
 My coworker crashed his Acura TSX and faced several thousand dollars in potential mechanic fees. Instead, I taught him how to do the full front-end teardown and component swap himself using salvage yard parts.
 
@@ -49,7 +49,7 @@ My coworker crashed his Acura TSX and faced several thousand dollars in potentia
 
 ## Reflections
 > **"If you want to learn, get your hands dirty."**  
-Doing it yourself not only saves money — it builds confidence. I watched a coworker go from nervous to empowered by the end of this project.
+Doing it yourself not only saves money, it builds confidence. I watched a coworker go from nervous to empowered by the end of this project.
 
 ---
 
