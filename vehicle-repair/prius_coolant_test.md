@@ -7,7 +7,7 @@
 
 ---
 
-## 🔧 Symptoms Observed
+## Symptoms Observed
 
 - **Check Engine Light:** Yes (no code photo available)  
 - **Primary Concern:** Engine vibration during idle and startup  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🔍 Diagnostic Method
+## Diagnostic Method
 
 - Radiator and reservoir pressure check (visual only, no gauge)
 - Verified coolant circulation by removing cap and checking for return flow during idle
@@ -28,7 +28,7 @@
 
 ---
 
-## ✅ Test Results
+## Test Results
 
 - Coolant appears to be **internally consumed**, likely due to **head gasket failure**  
 - Coolant slowly receded from overflow tank during extended idling  
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Action Taken
+## Action Taken
 
 - **Head gasket confirmed blown.**  
 - Performed head gasket replacement and cylinder head machining (see [Head Gasket Log](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/f6489d9500f0521cc349539dcdceb045d4309a0f/vehicle-repair/prius_head_gasket_log.md)  
@@ -48,7 +48,7 @@
 
 ---
 
-## 🔗 Related Logs
+## Related Logs
 
 - [Prius Head Gasket Replacement Log](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/f6489d9500f0521cc349539dcdceb045d4309a0f/vehicle-repair/prius_head_gasket_log.md)
 
