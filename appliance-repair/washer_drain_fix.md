@@ -16,9 +16,9 @@ Unit received in non-functional state with standing water in the drum. Initial i
 
 * Removed lower access panel and disconnected drain hose
 * Inspected drain pump impeller for foreign debris (coins, hair, thread)
-* Applied manual rotation to impeller — slight resistance noted
+* Applied manual rotation to impeller and slight resistance noted
 * Used shop vacuum to suction internal blockage through rear hose
-* Performed continuity test on pump motor — ✅ passed
+* Performed continuity test on pump motor and passed
 
 ---
 
