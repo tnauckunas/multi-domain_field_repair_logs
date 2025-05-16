@@ -48,10 +48,4 @@
 
 ---
 
-## Related Logs
-
-- [Prius Head Gasket Replacement Log](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/f6489d9500f0521cc349539dcdceb045d4309a0f/vehicle-repair/prius_head_gasket_log.md)
-
----
-
 _Last Updated: **May 2025**_
