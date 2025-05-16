@@ -72,7 +72,7 @@ This failure occurred mid-route, creating a **serious road hazard** due to lack 
 
 ## Reference Images
 
-- !(https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/trailer_full_view.jpg?raw=true) 
+- (!https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/trailer_full_view.jpg?raw=true) 
 - !(assets/trailer-wiring/new_wire_bundle_routed.jpg`  
 - !(assets/trailer-wiring/junction_box_burned.jpg`  
 - !(assets/trailer-wiring/trailer_full_view.jpg`  
