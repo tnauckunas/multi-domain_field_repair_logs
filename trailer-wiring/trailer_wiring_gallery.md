@@ -33,7 +33,7 @@ This gallery contains reference diagrams, plug maps, and electrical pinouts used
 
 ---
 
-## 🛠️ Use Cases
+## Use Cases
 
 - Trailer lighting system diagnosis  
 - Full harness replacement planning  
@@ -48,3 +48,7 @@ This gallery contains reference diagrams, plug maps, and electrical pinouts used
 - Wiring diagram and plug pinout image sourced from freely available trailer wiring resources.  
 - Educational use only to support documentation of personal repairs performed by Tomas Nauckunas.  
 - All work logs and repair sequences are original, based on hands-on field execution.
+
+---
+
+_Last Updated: **May 2025**_
