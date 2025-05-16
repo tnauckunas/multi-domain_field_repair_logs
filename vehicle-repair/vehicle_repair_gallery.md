@@ -51,7 +51,7 @@ Welcome to the master index of hands-on vehicle repairs. Each entry documents a 
 
 ## Directory Map
 
-All related photos are stored in: [Here](https://github.com/tnauckunas/multi-domain_field_repair_logs/tree/f2ea48917bb336e5ea9faa5071f32785dd5ab771/assets/vehicle-repair/images)
+All related photos are stored in: [/assets/vehicle-repair/images/](https://github.com/tnauckunas/multi-domain_field_repair_logs/tree/f2ea48917bb336e5ea9faa5071f32785dd5ab771/assets/vehicle-repair/images)
 
 ---
 
