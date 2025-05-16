@@ -21,24 +21,34 @@ All rear and side marker lights were dead. System grounding had been disrupted a
 
 ## Repair Steps
 
-### 🔧 1. Ground Wire Rebuild
-- Old, burned ground wire was fully **cut, removed, and measured**.
-- Pulled fresh **white 12 AWG ground wire** through junction path.
-- Grounded directly to trailer frame with stainless bolt and crimped eyelet.
+## 🔧 Repair Steps
 
-### 2. Junction Box Replacement
-- Removed melted plastic box and all burned terminals.
-- Installed new **weather-resistant junction box** with rubber-sealed grommets.
-- Re-terminated all 7 wires using heat shrink ring terminals, color-coded to standard:
-  - Yellow → Left Turn  
-  - Green → Right Turn  
-  - Brown → Tail  
-  - Red → Brake  
-  - Blue → Electric Brakes  
-  - White → Ground  
-  - Black → Auxiliary 12V
+### 🔪 Step 1 – Damaged Harness Cut & Measured
+- Harness was cut from the connector side to isolate melted segments.
+- Measured for new wiring length before pulling replacements.
 
-- Wrapped wire entry bundles with **split loom tubing** and secured with zip ties + screw-mounted clamps.
+---
+
+### 🧰 Step 2 – Fuse Replacement
+- Removed and inspected all inline and panel fuses.  
+- Replaced two blown 15 A blade fuses in the tow‐vehicle connector.  
+- Verified continuity and correct amperage ratings before reinstalling.
+
+---
+
+### ⚙️ Step 3 – Junction Box Rebuild
+- Removed melted junction box and all burned terminals.  
+- Installed new weather-resistant box with rubber grommets.  
+- Re-terminated all 7 wires using heat-shrink ring terminals, color-coded to standard:
+  - **Yellow →** Left Turn  
+  - **Green →** Right Turn  
+  - **Brown →** Tail  
+  - **Red →** Brake  
+  - **Blue →** Electric Brakes  
+  - **White →** Ground  
+  - **Black →** Auxiliary 12 V  
+
+- Wrapped wire entries in split-loom tubing and secured with zip-ties + screw-mounted clamps.
 
 ---
 
