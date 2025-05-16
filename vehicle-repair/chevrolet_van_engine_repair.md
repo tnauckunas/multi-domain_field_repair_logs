@@ -65,7 +65,7 @@
 - This job required working through the doghouse (interior engine access) under the dashboard.
 - Multiple components had to be maneuvered in tight quarters; careful labeling of connections was key.
 
-**Photos stored under:** [Van Photos](https://github.com/tnauckunas/multi-domain_field_repair_logs/tree/48bd42e59d40d9cb8d8dc42785527ac0026b8c93/assets/vehicle-repair/images/chevrolet_van)
+**Photos stored under:** [assets/vehicle-repair/images/chevrolet_van](https://github.com/tnauckunas/multi-domain_field_repair_logs/tree/48bd42e59d40d9cb8d8dc42785527ac0026b8c93/assets/vehicle-repair/images/chevrolet_van)
 
 ---
 
