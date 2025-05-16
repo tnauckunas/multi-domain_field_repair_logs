@@ -2,8 +2,7 @@
 
 ## Overview
 - **Date:** June 30, 2024  
-- **Location:** 639 Delaware Street, Imperial Beach, San Diego County, California  
-- **Vehicle:** Acura TSX  
+- **Vehicle:** Honda CR-V 2007
 - **Event:** DIY crash repair > front-end damage
 
 My coworker crashed his Acura TSX and faced several thousand dollars in potential mechanic fees. Instead, I taught him how to do the full front-end teardown and component swap himself using salvage yard parts.
