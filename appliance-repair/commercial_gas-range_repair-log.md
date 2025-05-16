@@ -1,85 +1,73 @@
-# Ferre F9S60GF-IN 90cm Gas Range Cooker — Repair & Resale Log  
+# Ferre F9S60GF-IN 90cm Gas Range Cooker — General Repair Log  
 **Model:** F9S60GF-IN  
 **Type:** Commercial Gas Range Cooker  
 **Brand:** Ferre  
 **Specs:** Double Turbo Fan, 6-Burner Gas Hob (1 Wok), Stainless Steel  
-**Project Type:** Broken appliance acquisition → Repair → Resale  
-**Location:** Residential pickup (private seller)  
-**Date Acquired:** 2024-10-30  
-**Date Resold:** 2024-11-07  
-**Technician / Owner:** Tomas Nauckunas  
+**Technician:** Tomas Nauckunas  
 
 ---
 
-## Acquisition Context  
-- Found unit listed as "not igniting, needs work" on Facebook Marketplace  
-- Seller was upgrading kitchen; unit was non-functional and heavily greased  
-- Purchased for £75 (pickup, no warranty)  
-- Transported manually with padding and vertical stabilization  
+## Common Issues Encountered  
+- Burner ignition failure (especially front-right / back-left)  
+- Weak or inconsistent flame output across burners  
+- Turbo convection fan not activating  
+- Uneven cooking inside oven cavity  
+- Warped or missing oven trays  
+- Heavy grease buildup interfering with burner and fan function  
 
 ---
 
-## Initial Condition at Pickup  
-- **Front-right & back-left burners non-functional**  
-- **Low flame across all burners**  
-- **Turbo convection fan not spinning**  
-- **Heavy internal grease buildup, carbon scoring on oven walls**  
-- Missing one oven tray; warped base tray  
+## Troubleshooting & Fixes
+
+### Burner Ignition  
+- Check igniter electrodes for carbon buildup or physical damage  
+- Test continuity on igniter wires — replace if open circuit  
+- Clean burner heads, jets, and venturi tubes with brush + compressed air  
+- Verify spark function (visible spark and audible click)  
+- Adjust air shutters for proper flame mix  
+
+### Flame Output  
+- Clean all burner jets and remove debris  
+- Inspect gas regulator and manifold pressure  
+- Ensure burner caps are seated correctly  
+- Verify gas hose condition and seal integrity  
+
+### Convection Fan  
+- Remove rear oven panel to access turbo fan motor  
+- Test motor resistance — replace if open or seized  
+- Check wiring from control board to motor  
+- Test in convection mode after replacement  
+
+### Oven Heating  
+- Inspect thermocouple and thermostat sensors  
+- Use oven thermometer to verify heat distribution  
+- Replace warped trays to prevent airflow disruption  
+- Clean interior walls and base to restore reflective heat performance  
 
 ---
 
-## Repair + Cleaning Process
-
-### Burner System  
-- Disassembled all burner caps, rings, and venturis  
-- Manually cleaned clogged jets and gas ports  
-- Replaced two ceramic igniters (front-right, back-left)  
-- Sanded electrodes to remove carbon  
-- Rewired ignition cables and restored spark continuity  
-- Adjusted air shutters to balance air-fuel ratio (blue flame restored)
-
-### Convection Fan Repair  
-- Removed rear oven panel  
-- Diagnosed failed fan motor (open resistance)  
-- Sourced and installed second-hand working turbo fan motor  
-- Retested — convection cycle functional  
-
-### Deep Cleaning  
-- Degreased with commercial-grade oven cleaner (3 cycles)  
-- Scraped carbon deposits with plastic-safe tools  
-- Polished stainless steel front and burner knobs  
-- Cleaned glass panel from both sides  
-- Replaced warped tray with compatible tray from parts inventory  
+## Tools & Materials  
+- Multimeter (continuity + resistance testing)  
+- Wire brush + compressed air  
+- Ceramic igniters (model-specific)  
+- Replacement fan motor (used or OEM)  
+- Oven-safe degreaser  
+- Screwdrivers, nut drivers, and socket set  
 
 ---
 
-## ✅ Final Function Test
+## ✅ Test Protocol (Post-Repair)
 
-| Component        | Result     |
-|------------------|------------|
-| All 6 Burners    | ✅ Ignition + flame quality restored |
-| Turbo Fan        | ✅ Spins properly in convection mode |
-| Oven Heating     | ✅ Even heat distribution (manual test) |
-| Gas Leaks        | ❌ None detected (soap + pressure test) |
-
----
-
-## Resale Details  
-- Resold on Gumtree to a restaurant chef setting up home kitchen  
-- Final price: **£300**  
-- Total ROI (after fan part cost ~£40): **£210 profit**  
-- Buyer confirmed unit is working and praised condition  
+| Component        | Test                          | Pass Criteria                     |
+|------------------|-------------------------------|-----------------------------------|
+| Burners          | Manual ignition + visual test | Instant spark, stable blue flame |
+| Convection Fan   | Convection mode test          | Fan spins at full speed          |
+| Oven Heat        | Bake mode temp test           | Even 180–200°C across cavity     |
+| Ignition System  | Spark test on all zones       | Consistent click + arc           |
+| Gas Safety       | Leak test w/ soap solution    | No visible bubbles               |
 
 ---
 
-## Skills Demonstrated  
-- Gas burner diagnostics and jet cleaning  
-- Electrical continuity testing and igniter replacement  
-- Convection fan motor replacement  
-- Deep commercial degreasing and appliance restoration  
-- Resale negotiation and safe transport handling  
-
----
-
-## Summary  
-Turned a broken commercial gas range into a fully functional, polished, and resold appliance with high return on investment. This log demonstrates independent troubleshooting, repair, and resale workflow with real-world customer validation.
+## Notes  
+This log reflects repeatable diagnostic and repair procedures for Ferre F9S60GF-IN models and similar commercial gas cookers.  
+Emphasis placed on restoring safety, full burner functionality, and consistent oven performance without reliance on external service support.  
