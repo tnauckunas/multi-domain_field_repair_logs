@@ -44,10 +44,10 @@ Unit received in non-functional state with standing water in the drum. Initial i
 
 ---
 
-## 💡 Notes
+## Notes
 
 This unit was initially listed as a loss/parts-only listing. Recovered using field-level diagnostics and non-invasive suction + manual cleaning. No pump motor replacement was required.
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
