@@ -6,7 +6,7 @@ This gallery contains reference diagrams, plug maps, and electrical pinouts used
 ## Standard 7-Pin Trailer Connector – Internal View  
 
 ![7-Pin Connector Wiring Layout](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/Trailer%20Wiring%20Diagram.jpg?raw=true)
-> Shows how the 7-pin connector feeds into each component of the trailer's lighting system — including turn signals, tail lights, brake lights, fog lights, and markers. Useful for full rewire or troubleshooting cross-short issues.
+> Shows how the 7-pin connector feeds into each component of the trailer's lighting system including turn signals, tail lights, brake lights, fog lights, and markers. Useful for full rewire or troubleshooting cross-short issues.
 
 ---
 
