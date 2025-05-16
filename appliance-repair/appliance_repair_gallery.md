@@ -23,7 +23,7 @@ These units were in active repair phase. Hoses removed, drained, and re-tested f
 ### Solo Transport – Prius Hatch Method  
 ![Front-load washer loaded into a Prius hatchback](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/appliance-repairs/washer_transport_in_prius.jpg?raw=true)
 
-No truck? No problem. I regularly transported washers and dryers using my personal Prius hatchback. This front-load unit was secured with moving blankets and lateral support to prevent bounce or drum shift. While unconventional, this method allowed rapid pickup and drop-off for multi-unit servicing without the need for a rented cargo or a company vehicle.
+No truck? No problem. I regularly transported washers and dryers using my personal Prius hatchback. This front-load unit was secured with moving blankets and lateral support to prevent bounce or drum shift. While unconventional, this method allowed rapid pickup and drop-off for multi-unit servicing without the need for a rented cargo or company vehicle.
 
 ---
 
