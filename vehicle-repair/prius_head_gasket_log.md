@@ -40,32 +40,32 @@
 ## Process Photos
 
 ### Prep and Work Area Setup  
-![Vehicle positioned with hood open, jack stands, and lights setup](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/prep_work.jpg?raw=true)
+![Vehicle positioned with hood open, jack stands, and lights setup](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/prius_2015/prep_work.jpg?raw=true)
 
 ---
 
 ### Disassembly Begins  
-![Early stage of disassembly with coolant reservoir pulled](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/started_disassembly.jpg?raw=true)
+![Early stage of disassembly with coolant reservoir pulled](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/prius_2015/started_disassembly.jpg?raw=true)
 
 ---
 
 ### Harness Documentation  
-![Close-up of ignition coils and wiring harness prior to full teardown](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/engine_harness.jpg?raw=true)
+![Close-up of ignition coils and wiring harness prior to full teardown](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/prius_2015/engine_harness.jpg?raw=true)
 
 ---
 
 ### Top Cover and Timing Cover Removed  
-![Top intake cover, air filter housing, and filter box removed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/timing_top_cover_overview.jpg?raw=true)
+![Top intake cover, air filter housing, and filter box removed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/prius_2015/timing_top_cover_overview.jpg?raw=true)
 
 ---
 
 ### Reference for Reassembly  
-![Engine layout used as reference for reinstall](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/reference_reassembly.jpg?raw=true)
+![Engine layout used as reference for reinstall](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/prius_2015/reference_reassembly.jpg?raw=true)
 
 ---
 
 ### Camshaft Removal  
-![Removing camshafts before head lift](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/camshaft_removals.jpg?raw=true)
+![Removing camshafts before head lift](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/prius_2015/camshaft_removals.jpg?raw=true)
 
 ---
 
