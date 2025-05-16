@@ -49,3 +49,7 @@ Commercial and residential appliance troubleshooting and fixes.
 ## About
 
 Every repair documented in this repository was personally completed, photographed, and logged to provide transparent proof of skills and real-world problem solving. No stock photos. Only firsthand field experience and learned mastery.
+
+---
+
+_Last Updated: **May 2025**_
