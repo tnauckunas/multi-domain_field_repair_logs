@@ -47,7 +47,7 @@ The following diagram was used as the primary guide for verifying outlet wiring 
 
 - **Breakaway tabs** were left **intact** since all duplex outlets were wired from a single circuit.
 - Outlets were securely mounted and aligned with wall surface.
-- Safety was prioritized — no live wires were exposed during any phase.
+- Safety was prioritized and no live wires were exposed during any phase.
 
 ---
 
