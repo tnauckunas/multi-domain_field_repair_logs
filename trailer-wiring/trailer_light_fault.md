@@ -1,9 +1,6 @@
 # Trailer Light System Failure – Burned Wiring Pre-Diagnosis  
 **Project Stage:** Damage documentation before repair  
 **Date:** June 20–25, 2024  
-**Location(s):**  
-- 1031 Neptune Drive, Chula Vista, CA  
-- 5940 Fairmount Avenue, San Diego, CA  
 **Technician:** Tomas Nauckunas  
 **Tow Vehicle:** Ford F-250 Super Duty  
 **Trailer:** 24ft Rocksolid Enclosed Cargo Trailer  
