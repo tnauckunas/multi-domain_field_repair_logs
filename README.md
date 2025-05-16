@@ -27,7 +27,7 @@ Live outlet wiring, safety testing, and full installation in residential environ
 
 ## Trailer Wiring Repairs
 
-Wiring fault diagnosis, junction box rewire, and light circuit restoration for road trailers.
+Wiring fault diagnosis, junction box rewire, and light circuit restoration for the trailer.
 
 - [Junction Box Full Rewire](./trailer-wiring/trailer_junction_box_rewire.md)
 - [Trailer Light Fault Troubleshooting](./trailer-wiring/trailer_light_fault.md)
