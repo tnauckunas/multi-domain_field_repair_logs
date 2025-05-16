@@ -66,7 +66,7 @@
 - Multiple components had to be maneuvered in tight quarters; careful labeling of connections was key.
 - Total repair time: ~6 hours including testing and cleanup.
 
-**Photos stored under:** `[vehicle-repair/images/chevrolet_van_engine_repair/](https://github.com/tnauckunas/multi-domain_field_repair_logs/tree/29f7224acd290ccb963356bdffde383682b9d522/assets/vehicle-repair/images/chevrolet_van)`
+**Photos stored under:** (assets/vehicle-repair/images/chevrolet_van)
 
 ---
 
