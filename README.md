@@ -48,5 +48,4 @@ Commercial and residential appliance troubleshooting and fixes.
 
 ## 🔍 About
 
-Every repair documented in this repository was personally completed, photographed, and logged to provide transparent proof of skills and real-world problem solving. No AI mockups, no stock photos—only firsthand field experience and learned mastery.
-
+Every repair documented in this repository was personally completed, photographed, and logged to provide transparent proof of skills and real-world problem solving. No stock photos. Only firsthand field experience and learned mastery.
