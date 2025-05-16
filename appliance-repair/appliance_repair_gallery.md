@@ -58,7 +58,7 @@ This pair was fully disassembled, cleaned, restored, and tested. UI, cycle behav
 ### ✅ Whirlpool + GE Classic Models – Operational  
 ![Final resale-ready classic units](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/appliance-repairs/classic_pair_cleaned.jpg?raw=true)
 
-Final product stage — cleaned, tested, and photographed for listing. Both passed multi-cycle QA and no power, heating, or drainage issues remained.
+Final product stage. Cleaned, tested, and photographed for listing. Both passed multi-cycle QA and no power, heating, or drainage issues remained.
 
 ---
 
