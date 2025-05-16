@@ -94,8 +94,8 @@ Trailer electrical system was restored to safe working condition. Ground fault e
 
 ## Notes & Lessons Learned
 
-- Never trust old heat-shrunk boxes without grommets — they cook internally over time.
-- Grounding must always bolt directly to frame **with clean metal-to-metal contact** — painted chassis will cause system failure.
+- Never trust old heat-shrunk boxes without grommets they cook internally over time.
+- Grounding must always bolt directly to frame **with clean metal-to-metal contact** painted chassis will cause system failure.
 - Always reinforce new junctions with wire loom + physical strain relief.
 
 ---
