@@ -36,7 +36,7 @@ Welcome to the master index of hands-on vehicle repairs. Each entry documents a 
 **Scope:** Hybrid battery reconditioning using Prolong system, and full cooling system restoration (fan motor, thermostat, coolant flush).  
 **Outcome:** Battery revived. Cooling restored. Sold vehicle at market value.
 
-![Prolong Discharge](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Prolong%20Battery%20Discharger.jpg?raw=true)
+![Hybrid Battery Overview](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Hybrid%20Battery%20Honda%20Civic.png?raw=true)
 
 ---
 
