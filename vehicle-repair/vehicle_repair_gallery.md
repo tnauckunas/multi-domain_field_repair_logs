@@ -4,21 +4,21 @@ Welcome to the master index of hands-on vehicle repairs. Each entry documents a 
 
 ---
 
-## 🔧 1. [Prius Head Gasket Replacement](./prius_head_gasket_log.md)
+## 1. [Prius Head Gasket Replacement](./prius_head_gasket_log.md)
 **Vehicle:** 2015 Toyota Prius (3rd Gen Hybrid)  
 **Scope:** Full head gasket failure diagnosis, disassembly, and replacement.  
 **Outcome:** Engine restored to working order after intensive teardown.
 
-![Prius Head Gasket Overview](../assets/vehicle-repair/images/prius_2015/engine_overview.jpg)
+![Prius Head Gasket Overview](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/prius_2015/timing_top_cover_overview.jpg?raw=true)
 
 ---
 
-## 🌡️ 2. [Prius Coolant System Troubleshooting](./prius_coolant_test.md)  
+## 2. [Prius Coolant System Troubleshooting](./prius_coolant_test.md)
 **Vehicle:** 2015 Toyota Prius  
 **Scope:** Investigated overheating issues and potential coolant blockage.  
 **Outcome:** Identified no coolant flow; confirmed HG failure.  
 
-![Coolant Diagnostic](../assets/vehicle-repair/images/prius_2015/trailer_wiring_install.jpg)
+> _Note: No reference photo available for this repair stage._
 
 ---
 
@@ -27,40 +27,31 @@ Welcome to the master index of hands-on vehicle repairs. Each entry documents a 
 **Scope:** Replaced misfiring components (knock sensor, plugs), plus full trailer wiring job.  
 **Outcome:** Restored performance, installed tow harness.
 
-![Van Overview](../assets/vehicle-repair/images/chevrolet_van/van_overview.jpg)
+![Van Overview](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/chevrolet_van/van_overview.jpg?raw=true)
 
 ---
 
-## 🔋 4. [Honda Civic Hybrid Battery & Cooling Fix](./honda_civic_hybrid_repair.md)  
+## 🔋 4. [2006 Honda Civic Hybrid Repair Log](./honda_civic_hybrid_repair.md)
 **Vehicle:** 2006 Honda Civic Hybrid  
-**Scope:** Used Prolong system for hybrid battery reconditioning. Also fixed cooling fan and thermostat.  
-**Outcome:** Sold post-fix for full value. Avoided junkyard loss.
+**Scope:** Hybrid battery reconditioning using Prolong system, and full cooling system restoration (fan motor, thermostat, coolant flush).  
+**Outcome:** Battery revived. Cooling restored. Sold vehicle at market value.
 
-![IMA Charging Dashboard](../assets/vehicle-repair/images/prius_2015/Honda_Civic_Hybrid_Charging.jpg)
-
----
-
-## 🧊 5. [Honda Civic Cooling & Fan Fix (Thermostat + Fan Motor)](./honda_civic_hybrid_repair.md#coolant-fan-troubleshooting--fix)  
-**Vehicle:** 2006 Honda Civic Hybrid  
-**Scope:** Diagnosed stuck thermostat and non-functional fan motor.  
-**Outcome:** Replaced both; engine cooling fully restored.  
-
-![Fan Troubleshooting](../assets/vehicle-repair/images/prius_2015/Fan_Disconnected_and_removed.jpg)
+![Prolong Discharge](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Prolong%20Battery%20Discharger.jpg?raw=true)
 
 ---
 
-## 🧰 6. [Coworker Crash Repair Assistance (Acura TSX)](./coworker_crash_repair_assist.md)  
-**Vehicle:** Acura TSX  
+## 🧰 5. [Coworker Crash Repair Assistance (Honda CR-V)](./coworker_crash_repair_assist.md)  
+**Vehicle:** Honda CR-V
 **Scope:** Guided coworker through radiator and front-end rebuild after crash.  
-**Outcome:** Saved $2,000+ and taught hands-on repair.  
+**Outcome:** Saved $3,000+ and taught hands-on repair.  
 
-![Crash Repair Assist](../assets/vehicle-repair/images/acura_tsx/front_repair_map_location.jpg)
+![Crash Repair Assist](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/coworker_crash_repair_assist/assisting_coworker_.jpg?raw=true)
 
 ---
 
 ## 📂 Directory Map
 
-All related photos are stored in:
+All related photos are stored in: ![Here](https://github.com/tnauckunas/multi-domain_field_repair_logs/tree/f2ea48917bb336e5ea9faa5071f32785dd5ab771/assets/vehicle-repair/images)
 
 ---
 
