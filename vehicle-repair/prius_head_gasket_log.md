@@ -54,7 +54,7 @@
 
 ---
 
-### Top Cover Removed  
+### Top Cover and Timing Cover Removed  
 ![Top intake cover, air filter housing, and filter box removed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/timing_top_cover_overview.jpg?raw=true)
 
 ---
