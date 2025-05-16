@@ -10,9 +10,7 @@
 
 ## ⚠️ Issue Summary
 
-After a full trailer lighting failure was diagnosed (see [`trailer_light_fault.md`](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/7b1b5d0a2dd73f125dd35b2d2bf0351a40519ec0/trailer-wiring/trailer_light_fault.md), 
-
-the root cause was confirmed as:
+After a full trailer lighting failure was diagnosed (see [`trailer_light_fault.md`](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/7b1b5d0a2dd73f125dd35b2d2bf0351a40519ec0/trailer-wiring/trailer_light_fault.md), the root cause was confirmed as:
 - **Burned internal wiring**
 - **Melted or compromised ground wire**
 - **Faulty junction box with unshielded entry points**
