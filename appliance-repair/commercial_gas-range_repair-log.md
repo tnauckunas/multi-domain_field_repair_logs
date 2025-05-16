@@ -2,7 +2,7 @@
 **Model:** F9S60GF-IN  
 **Type:** Commercial Gas Range Cooker  
 **Brand:** Ferre  
-**Specs:** Double Turbo Fan, 6-Burner Gas Hob (1 Wok), Stainless Steel  
+**Specs:** Double Turbo Fan, 6-Burner Gas Hob, Stainless Steel  
 **Technician:** Tomas Nauckunas  
 
 ---
