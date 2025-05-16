@@ -1,61 +1,52 @@
-# Real-World Diagnostics & Repair Portfolio
+# 🛠️ Multi-Domain Field Repair Logs
 
-**Author:** Tomas Nauckunas
-**Scope:** Vehicle repairs, trailer wiring, home outlet installation, appliance restoration
-**Period:** 2022–2025
-**Repo Purpose:** To document real-world troubleshooting, diagnostics, and electrical/mechanical repairs across multiple domains. Each case is supported with field photos, methodical logs, and repeatable safety-based processes.
+Welcome to my comprehensive portfolio of hands-on mechanical, electrical, and diagnostic repair logs across multiple domains. Each project includes real photos, step-by-step notes, and verified results from real-world scenarios.
 
 ---
 
-## 🛠️ Sections
+## 🔧 Vehicle Repairs
 
-### 🚗 Vehicle Repairs
+Repairs ranging from hybrid system restoration to full mechanical disassembly. Includes documentation and photographic records.
 
-* `prius_head_gasket_log.md` – full head gasket replacement
-* `prius_coolant_test.md` – overflow, blockage, and pressure check
-* `vehicle_repair_gallery.md` – visual walkthrough of field work
-
-### ⚡ Trailer Wiring
-
-* `trailer_light_fault.md` – diagnosis of faulty signal/rear brake lights
-* `trailer_ground_fix.md` – grounding issue and continuity trace
-* `trailer_wiring_gallery.md` – photo-based field wiring evidence
-
-### 🔌 Appliance Repairs
-
-* `washer_drain_fix.md` – spin/drain failure troubleshooting
-* `dryer_not_heating.md` – thermal fuse and heating coil inspection
-* `appliance_repair_gallery.md` – images of post-repair units ready for sale
-
-### 🧱 Home Electrical
-
-* `power_outlet_install.md` – new outlet install with mounting and voltage test
-* `safety_test_notes.md` – visual + meter-based verification
-* `outlet_install_gallery.md` – clean installs and open wall cavity photos
+- [Chevrolet Van Engine Rebuild](./vehicle-repair/chevrolet_van_engine_repair.md)
+- [2006 Honda Civic Hybrid Battery & Cooling Fix](./vehicle-repair/honda_civic_hybrid_repair.md)
+- [2015 Toyota Prius Coolant Test](./vehicle-repair/prius_coolant_test.md)
+- [2015 Toyota Prius Head Gasket Replacement](./vehicle-repair/prius_head_gasket_log.md)
+- [Coworker Crash Repair Assist (Radiator + Frame Work)](./vehicle-repair/coworker_crash_repair_assist.md)
+- [📸 Vehicle Repair Gallery](./vehicle-repair/vehicle_repair_gallery.md)
 
 ---
 
-## 📸 Assets
+## ⚡ Home Electrical Repairs
 
-All visual documentation is stored in `/assets/`, organized per section:
+Live outlet wiring, safety testing, and full installation in residential environments. Images and safety diagrams included.
 
-```
-/assets/vehicle-repair/
-/assets/trailer-wiring/
-/assets/appliance-repair/
-/assets/home-electrical/
-```
-
-Each gallery log file references its visual evidence with clear captions.
+- [Outlet Install Gallery + Safety Test Notes](./home-electrical/outlet_install_gallery.md)
 
 ---
 
-## 🧠 Technician Ethos
+## 🔌 Trailer Wiring Repairs
 
-> "Every system has a cause. Every fix has a fingerprint. I log both."
+Wiring fault diagnosis, junction box rewire, and light circuit restoration for road trailers.
 
-This portfolio showcases real-world logic, recovery, and respect for safety in environments where breakdowns matter. Logs are written for technicians, not theory.
+- [Junction Box Full Rewire](./trailer-wiring/trailer_junction_box_rewire.md)
+- [Trailer Light Fault Troubleshooting](./trailer-wiring/trailer_light_fault.md)
+- [📸 Trailer Wiring Repair Gallery](./trailer-wiring/trailer_wiring_gallery.md)
 
 ---
 
-## 📅 Last Updated: May 2025
+## 🔧 Appliance Repairs
+
+Commercial and residential appliance troubleshooting and fixes.
+
+- [Gas Range Commercial Repair](./appliance-repair/commercial_gas-range_repair-log.md)
+- [Dryer Not Heating Fix](./appliance-repair/dryer_not_heating.md)
+- [Washer Drain Pump Fix](./appliance-repair/washer_drain_fix.md)
+- [📸 Appliance Repair Gallery](./appliance-repair/appliance_repair_gallery.md)
+
+---
+
+## 🔍 About
+
+Every repair documented in this repository was personally completed, photographed, and logged to provide transparent proof of skills and real-world problem solving. No AI mockups, no stock photos—only firsthand field experience and learned mastery.
+
