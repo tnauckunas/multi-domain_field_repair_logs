@@ -71,4 +71,4 @@ Final product stage. Cleaned, tested, and photographed for listing. Both passed 
 
 ---
 
-## 📅 Last Updated: May 2025
+## Last Updated: May 2025
