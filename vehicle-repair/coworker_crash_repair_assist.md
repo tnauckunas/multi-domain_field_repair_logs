@@ -1,11 +1,11 @@
-# Coworker Acura TSX Front-End Collision Repair (Assistance Log)
+# Coworker Honda CR-V Front-End Collision Repair (Assistance Log)
 
 ## Overview
 - **Date:** June 30, 2024  
 - **Vehicle:** Honda CR-V 2007
 - **Event:** DIY crash repair > front-end damage
 
-My coworker crashed his Acura TSX and faced several thousand dollars in potential mechanic fees. Instead, I taught him how to do the full front-end teardown and component swap himself using salvage yard parts.
+My coworker crashed his Honda CR-V and faced several thousand dollars in potential mechanic fees. Instead, I taught him how to do the full front-end teardown and component swap himself using salvage yard parts.
 
 ---
 
