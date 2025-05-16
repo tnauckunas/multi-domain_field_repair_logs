@@ -1,1 +1,88 @@
+# Chevrolet Express Van Engine Repair & Rear Wiring Install
 
+## Vehicle:
+
+* **Make/Model**: Chevrolet Express Van
+* **Repair Areas**: Engine troubleshooting and component replacement, rear trailer wiring install
+
+---
+
+## Engine Diagnostics & Repair
+
+### Initial Symptoms:
+
+* Severe engine misfiring
+* Rough idling and shaking
+* Check Engine Light (CEL) present
+* Trouble codes retrieved via scan tool:
+
+  * **P0171** – System Too Lean Bank 1
+  * **P0301** – Cylinder 1 Misfire Detected
+
+### Troubleshooting Performed:
+
+* Removed engine cover from cabin for full access to intake manifold, fuel rails, and wiring harness.
+* Conducted visual inspection of all ignition coils and spark plug wires — all visibly worn.
+* Verified fuel injector pulse and spray pattern using test light and audio stethoscope.
+* Tested ignition coil resistance and primary/secondary continuity.
+* Checked intake manifold gaskets for potential vacuum leaks.
+* Verified knock sensor resistance and wire condition.
+
+### Parts Replaced:
+
+* **Spark Plugs** (full set)
+* **Ignition Coils** (as needed based on resistance testing)
+* **Knock Sensor** (new sensor installed deep under the intake manifold)
+* **Upper Intake Manifold Gaskets**
+
+### Additional Work:
+
+* Cleaned intake ports and throttle body
+* Re-torqued manifold bolts per OEM sequence
+* Cleared all codes and performed engine relearn drive cycle
+
+---
+
+## Rear Trailer Wiring Install
+
+### Objective:
+
+* Install 4-pin trailer connector in rear cargo section for external trailer lighting.
+
+### Work Completed:
+
+* Routed wiring from rear tail light harness inside van cargo bay.
+* Tapped into turn, brake, and tail circuits using soldered connections.
+* Heat-shrinked all joints and wrapped loom for durability.
+* Tested with trailer light tester for full signal pass-through:
+
+  * Left Turn
+  * Right Turn
+  * Brake
+  * Tail Lights
+
+---
+
+## Tools Used:
+
+* Topdon ArtiDiag600S Diagnostic Scanner
+* Basic and deep socket wrench set
+* Spark plug socket extension
+* Test light, stethoscope, multimeter
+* Soldering kit, heat shrink tubing, wire stripper
+
+---
+
+## Outcome:
+
+* Engine now idles smooth, starts reliably, and all misfire/lean codes cleared permanently.
+* Trailer wiring fully functional and secured inside cargo bay.
+
+---
+
+## Notes:
+
+* Knock sensor access on this van requires near-complete removal of intake manifold, which was documented with careful reassembly tracking.
+* Vehicle was returned to regular duty after 3 days of continuous work.
+
+> 📸 See related photos in `vehicle_repair_gallery.md`
