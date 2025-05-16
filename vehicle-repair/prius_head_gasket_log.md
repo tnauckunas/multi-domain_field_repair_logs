@@ -1,80 +1,83 @@
-Prius Head Gasket Replacement Log
-Vehicle: 2015 Toyota Prius
-Issue: Engine shaking, misfires, coolant loss, and check engine light (trouble code not documented due to urgency)
-Time Constraints: Repair was performed under extreme time pressure. Documentation began only during reassembly.
-Tools Used:
+# Prius Head Gasket Replacement Log
 
-Impact wrench
+**Vehicle:** 2015 Toyota Prius  
+**Issue:** Engine shaking, misfires, coolant loss, and check engine light (trouble code not documented due to urgency)  
+**Time Constraints:** Repair was performed under extreme time pressure. Documentation began only during reassembly.  
+**Tools Used:**  
+- Impact wrench  
+- Creeper  
+- LED work stand  
+- Complete hand tool set  
+- ALLDATA DIY: 2015 Prius official repair procedure  
 
-Creeper
+---
 
-LED work stand
+## Symptoms
 
-Complete hand tool set
+- Rough engine idle and excessive vibration  
+- Coolant loss with no visible external leak  
+- Engine light triggered (code not saved)  
+- Imminent need for transportation forced urgent teardown without time for full photo documentation
 
-ALLDATA DIY: 2015 Prius official repair procedure
+---
 
-Symptoms
-Rough engine idle and excessive vibration
+## Work Summary
 
-Coolant loss with no visible external leak
+- Fully disassembled engine top-end including intake, throttle body, air filter box, ignition coils, valve cover, and timing chain cover  
+- Removed camshafts and cylinder head  
+- Sent cylinder head to local machine shop:
+  - Head was resurfaced (machined)
+  - Valve springs, lifters, retainers, and valve stems tested and passed  
+- Installed brand new multi-layer OEM head gasket  
+- Installed new OEM head bolts and torqued in proper multi-stage star pattern using official Toyota spec from ALLDATA  
+- All sealing surfaces cleaned and prepped  
+- Engine reassembled in full, including proper timing chain alignment and torque sequences  
+- Fluids flushed and replaced  
+- Successful startup on first ignition—no leaks, no misfires, proper idle
 
-Engine light triggered (code not saved)
+---
 
-Imminent need for transportation forced urgent teardown without time for full photo documentation
+## Process Photos
 
-Work Summary
-Fully disassembled engine top-end including intake, throttle body, air filter box, ignition coils, valve cover, and timing chain cover
+### Prep and Work Area Setup  
+![Vehicle positioned with hood open, jack stands, and lights setup](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/10.jpg?raw=true)
 
-Removed camshafts and cylinder head
+---
 
-Sent cylinder head to local machine shop:
+### Disassembly Begins  
+![Early stage of disassembly with coolant reservoir pulled](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/2.jpg?raw=true)
 
-Head was resurfaced (machined)
+---
 
-Valve springs, lifters, retainers, and valve stems tested and passed
+### Harness Documentation  
+![Close-up of ignition coils and wiring harness prior to full teardown](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/3.jpg?raw=true)
 
-Installed brand new multi-layer OEM head gasket
+---
 
-Installed new OEM head bolts and torqued in proper multi-stage star pattern using official Toyota spec from ALLDATA
+### Top Cover Removed  
+![Top intake cover, air filter housing, and filter box removed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/4.jpg?raw=true)
 
-All sealing surfaces cleaned and prepped
+---
 
-Engine reassembled in full, including proper timing chain alignment and torque sequences
+### Cylinder Head Removal Phase  
+![Timing chain and top cover removed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/5.jpg?raw=true)
 
-Fluids flushed and replaced
+---
 
-Successful startup on first ignition—no leaks, no misfires, proper idle
+### Reference for Reassembly  
+![Engine layout used as reference for reinstall](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/6.jpg?raw=true)
 
-Process Photos
-Prep and Work Area Setup
+---
 
+### Camshaft Removal  
+![Removing camshafts before head lift](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/7.jpg?raw=true)
 
-Disassembly Begins
+---
 
+## Notes
 
-Harness Documentation
-
-
-Top Cover Removed
-
-
-Cylinder Head Removal Phase
-
-
-Reference for Reassembly
-
-
-Camshaft Removal
-
-
-Notes
-This repair was completed solo, with no supervision, under pressure to have the vehicle operational within 72 hours
-
-No step skipped, all torque specs and sequences followed precisely
-
-Total down time: ~3 days including machine shop delay
-
-Post-repair testing showed full resolution of symptoms and no recurrence
-
-Transmission was rebuilt prior with same self-reliant process (no images due to rush)
+- This repair was completed solo, with no supervision, under pressure to have the vehicle operational within 72 hours  
+- No step skipped, all torque specs and sequences followed precisely  
+- Total down time: ~3 days including machine shop delay  
+- Post-repair testing showed full resolution of symptoms and no recurrence  
+- Transmission was rebuilt prior with same self-reliant process (no images due to rush)
