@@ -27,10 +27,10 @@ No truck? No problem. I regularly transported washers and dryers using my person
 
 ---
 
-### Solo Commercial Oven Haul – 400+ lbs
+### Solo Commercial Oven Haul – 300+ lbs
 ![Commercial stove loaded into back of a pickup truck](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/appliance-repairs/solo_commercial_stove_rig.jpg?raw=true)
 
-This commercial stove weighed well over 400 lbs and needed to be moved solo with a partially injured right arm. With no one available to help, I created a strap-anchored system that used the pickup truck as a stabilizer. I gradually ratcheted the stove upward against the ramp tension while managing balance and friction. This move took over an hour and was executed entirely by hand at night. I later brought the unit home for full repair and resale. One of my most difficult field hauls to date.
+This commercial stove weighed well over 300 lbs and needed to be moved solo with a partially injured right arm. With no one available to help, I created a strap-anchored system that used the pickup truck as a stabilizer. I gradually ratcheted the stove upward against the ramp tension while managing balance and friction. This move took over an hour and was executed entirely by hand at night. I later brought the unit home for full repair and resale. One of my most difficult field hauls to date.
 
 ---
 
