@@ -90,24 +90,29 @@
 
 ### Troubleshooting & Fix
 
-1. **Visual Inspection**
-   - Confirmed no fan movement with engine at operating temperature.
-   - Checked relays and fuses (OK).
-   - Verified coolant reservoir and sensor condition.
+1. **Cooling System Flow Test**
+   - Verified coolant levels.
+   - Ran engine and monitored for flow — found no coolant circulating.
 
-2. **Coolant Flush**
-   - Drained old coolant completely.
-   - Refilled with fresh 50/50 mix after sensor replacement.
+2. **Thermostat Inspection**
+   - Removed thermostat and tested in boiling water — confirmed it was stuck closed.
+   - Replaced thermostat with new OEM-spec unit.
 
-3. **Coolant Temperature Sensor Replaced**
-   - Sensor located under intake.
-   - Removed air intake and coils for access.
-
-4. **Fan Replacement**
-   - Fan motor removed, tested, and replaced.
-   - Verified fan operation with engine on and AC active.
+3. **Fan System Diagnosis**
+   - Checked relays and fuses — all tested OK.
+   - Applied 12V directly to fan motor — confirmed failure.
+   - Replaced fan motor assembly.
 
 ![Fan Removed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Fan%20Disconnected%20and%20removed.jpg?raw=true)
+
+4. **Coolant Sensor Replacement**
+   - Replaced faulty coolant temperature sensor.
+   - Sensor located under intake manifold.
+   - Removed intake, coils, and wiring harness to gain access.
+
+5. **Coolant Flush**
+   - Fully flushed old coolant.
+   - Refilled with fresh 50/50 long-life Honda-compatible coolant.
 
 ---
 
@@ -115,7 +120,8 @@
 
 ### Work Performed
 - Partial disassembly of intake and throttle body.
-- Reassembled after flushing and repairs.
+- Inspected harness and injectors.
+- Verified leak-free coolant path after flush and sensor replacement.
 
 ---
 
@@ -124,9 +130,10 @@
 | Task | Result |
 |------|--------|
 | Hybrid Battery Reconditioning | ✅ Fully revived |
-| Engine Overheating Diagnosis | ✅ Resolved |
-| Fan System Fixed | ✅ New fan installed |
-| Coolant Sensor Replacement | ✅ Verified with scanner |
+| Thermostat Replacement | ✅ Stuck closed unit replaced |
+| Radiator Fan Replacement | ✅ Motor was dead, replaced |
+| Coolant Sensor Replacement | ✅ Confirmed with scanner |
+| Coolant System Flushed | ✅ Fully flushed, refilled |
 | Sale Value Recovered | ✅ Sold at proper market value |
 
 ---
@@ -144,6 +151,6 @@
 
 ## Summary
 
-The Prolong Deluxe kit made it possible to recondition the hybrid battery at home, restoring full system function without needing to spend $2500–$3000 on a replacement pack. With the reconditioning complete, the vehicle sold for a competitive price, rather than scrap value.
+The Prolong Deluxe kit made it possible to recondition the hybrid battery at home, restoring full system function without needing to spend $2500–$3000 on a replacement pack. Mechanical repair work allowed me to restore full drivability and the reconditioning complete, the vehicle sold for a competitive price, rather than scrap value.
 
 ---
