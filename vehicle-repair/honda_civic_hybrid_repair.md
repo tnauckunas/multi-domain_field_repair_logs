@@ -137,7 +137,7 @@
 - **After Repair:** Battery fully functional, Fan fully operational and dash cleared, MPG improved
 - **Selling Outcome:**  
   - Sold vehicle **after successful reconditioning**  
-  - Would’ve sold for **under $500** with dead battery  
+  - Would’ve sold for **under $500** with dead battery and fan 
   - **Actual sale price increased significantly** — repair paid for itself
 
 ---
