@@ -38,4 +38,6 @@ Diagram used to verify terminal orientation and screw placement.
 
 ![Standard Outlet Wiring Guide](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/home-electrical/How%20to%20wire%20Diagram.png?raw=true)
 
+The diagram below wasn’t exactly what I was looking for, but it provided a solid general understanding and helped confirm the orientation of hot, neutral, and ground terminals.
+
 **✔️ Result:** Every outlet passed inspection. The studio was powered on without any faults. Installed outlets were grounded, polarized, and safely operational.
