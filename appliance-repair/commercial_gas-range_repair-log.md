@@ -19,8 +19,8 @@
 ## Diagnosis Process
 
 ### 1. **Burner Ignition Failure**  
-- Verified gas flow: 
-- Checked igniter clicks and spark output: 
+- Verified gas flow
+- Checked igniter clicks and spark output
 - Multimeter test on igniter wires: No continuity on front-right and back-left ignition wires  
 - Visually inspected electrode tips: Carbon buildup + grease obstruction  
 
@@ -30,7 +30,7 @@
 - Cleaned jets and venturi tubes with wire brush and compressed air  
 
 ### 3. **Fan Failure (Double Turbo Convection)**  
-- Power output from control board to fan motor:  
+- Power output from control board to fan motor
 - Fan motor resistance check: (Open circuit)  
 - Confirmed failed convection fan motor  
 
