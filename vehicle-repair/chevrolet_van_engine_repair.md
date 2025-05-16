@@ -17,7 +17,7 @@
   - `P0171` — System Too Lean (Bank 1)
   - `P0301` — Cylinder 1 Misfire Detected
 
-![DTC Scanner Reading - P0171, P0301](
+![DTC Scanner Reading - P0171, P0301](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/chevrolet_van/dtc_codes_scanner.jpg?raw=true)
 
 ## Troubleshooting & Testing
 - Inspected ignition coils and spark plugs — plugs were worn but not root cause.
@@ -31,14 +31,14 @@
 - Disconnected and labeled fuel rail, injector clips, vacuum lines, and harnesses.
 - Pulled intake manifold to access valley pan area and knock sensor harness.
 
-![Intake Manifold Removed](
+![Intake Manifold Removed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/chevrolet_van/engine_overview.jpg?raw=true)
 
 ### 2. Knock Sensor Replacement
 - Removed old knock sensor and inspected — corrosion present on contacts.
 - Replaced with brand new knock sensor (OEM spec).
 - Cleaned harness contacts and re-wrapped wires with heat shielding.
 
-![Knock Sensor Area - Open Valley](
+![Knock Sensor Area - Open Valley](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/chevrolet_van/manifold_removed.jpg?raw=true)
 
 ### 3. Intake Manifold Reseal
 - Reinstalled intake manifold with new gaskets.
@@ -50,12 +50,14 @@
 - Engine started with smooth idle.
 - No more misfires or CEL after 30-minute test drive.
 
+![Van is Running Smooothly](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/chevrolet_van/van_overview.jpg?raw=true)
+
 ## Additional Work: Trailer Wiring Connector
 - Installed 4-pin trailer connector in rear cargo bay.
 - Routed wires along floor and tapped into left and right turn/brake circuits.
 - Confirmed all trailer signals function using test light.
 
-![Interior trailer wiring](
+![Interior trailer wiring](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/chevrolet_van/trailer_wiring_install.jpg?raw=true)
 
 ---
 
@@ -64,7 +66,7 @@
 - Multiple components had to be maneuvered in tight quarters; careful labeling of connections was key.
 - Total repair time: ~6 hours including testing and cleanup.
 
-**Photos stored under:** `vehicle-repair/images/chevrolet_van_engine_repair/`
+**Photos stored under:** `[vehicle-repair/images/chevrolet_van_engine_repair/](https://github.com/tnauckunas/multi-domain_field_repair_logs/tree/29f7224acd290ccb963356bdffde383682b9d522/assets/vehicle-repair/images/chevrolet_van)`
 
 ---
 
