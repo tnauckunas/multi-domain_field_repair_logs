@@ -8,7 +8,7 @@
 
 ---
 
-## ⚠️ Issue Summary
+## Issue Summary
 
 After a full trailer lighting failure was diagnosed (see [`trailer_light_fault.md`](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/7b1b5d0a2dd73f125dd35b2d2bf0351a40519ec0/trailer-wiring/trailer_light_fault.md), the root cause was confirmed as:
 - **Burned internal wiring**
@@ -19,14 +19,14 @@ All rear and side marker lights were dead. System grounding had been disrupted a
 
 ---
 
-## 🛠️ Repair Steps
+## Repair Steps
 
 ### 🔧 1. Ground Wire Rebuild
 - Old, burned ground wire was fully **cut, removed, and measured**.
 - Pulled fresh **white 12 AWG ground wire** through junction path.
 - Grounded directly to trailer frame with stainless bolt and crimped eyelet.
 
-### 📦 2. Junction Box Replacement
+### 2. Junction Box Replacement
 - Removed melted plastic box and all burned terminals.
 - Installed new **weather-resistant junction box** with rubber-sealed grommets.
 - Re-terminated all 7 wires using heat shrink ring terminals, color-coded to standard:
@@ -42,7 +42,7 @@ All rear and side marker lights were dead. System grounding had been disrupted a
 
 ---
 
-## 🧪 Final Testing
+## Final Testing
 
 - Lights tested individually:
   - Left/Right blinkers ✅  
@@ -56,28 +56,28 @@ All rear and side marker lights were dead. System grounding had been disrupted a
 
 ## 📸 Visuals
 
-### 🔥 Before – Ground Damage + Open Harness  
+### Before – Ground Damage + Open Harness  
 ![Burned junction box with exposed leads](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/Wire%20Cut%20Measured.jpg?raw=true)
 
 ---
 
-### ✅ After – Fully Repaired Junction & Secured Loom  
+### After – Fully Repaired Junction & Secured Loom  
 ![Fully restored junction with proper protection](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/Fully%20Repaired.jpg?raw=true)
 
 ---
 
-### 🎥 Final Light System Verification  
+### Final Light System Verification  
 **Video:** [Full Lighting System Test – All Functions Pass](https://github.com/tnauckunas/multi-domain_field_repair_logs/assets/trailer-wiring/final_lights_working_demo.mp4) *(upload video here and link it when ready)*
 
 ---
 
-## ✅ Final Outcome
+## Final Outcome
 
 Trailer electrical system was restored to safe working condition. Ground fault eliminated. New junction box fully sealed and future-proofed. Trailer passed live road test and inspection.
 
 ---
 
-## 🧠 Notes & Lessons Learned
+## Notes & Lessons Learned
 
 - Never trust old heat-shrunk boxes without grommets — they cook internally over time.
 - Grounding must always bolt directly to frame **with clean metal-to-metal contact** — painted chassis will cause system failure.
@@ -85,7 +85,7 @@ Trailer electrical system was restored to safe working condition. Ground fault e
 
 ---
 
-## 🔗 Related Logs
+## Related Logs
 
 - [`trailer_light_fault.md`](./trailer_light_fault.md) – Incident & Diagnosis  
 - [`trailer_wiring_gallery.md`](./trailer_wiring_gallery.md) – Reference Diagrams & Pinouts  
