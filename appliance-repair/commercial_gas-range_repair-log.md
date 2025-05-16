@@ -56,7 +56,7 @@
 
 ---
 
-## ✅ Test Protocol (Post-Repair)
+## Test Protocol (Post-Repair)
 
 | Component        | Test                          | Pass Criteria                     |
 |------------------|-------------------------------|-----------------------------------|
