@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Problem Summary
+## Problem Summary
 
 While hauling the enclosed cargo trailer uphill on one of the hottest days in San Diego, the trailer lighting system suddenly failed — including all tail lights, brake lights, and night-running lights.
 
@@ -18,7 +18,7 @@ This failure occurred mid-route, creating a **serious road hazard** due to lack 
 
 ---
 
-## 🔍 Diagnostic Process
+## Diagnostic Process
 
 - Visual inspection of exposed harness confirmed **heat wear, grinding, and multiple exposed conductors**.
 - Used multimeter to check continuity between pin outputs and light inputs — no voltage to rear cluster.
@@ -27,7 +27,7 @@ This failure occurred mid-route, creating a **serious road hazard** due to lack 
 
 ---
 
-## 🔧 Repair Process
+## Repair Process
 
 1. **Harness Replacement**
    - Cut out ~3 feet of burned cable including melted junction segment.
@@ -57,7 +57,7 @@ This failure occurred mid-route, creating a **serious road hazard** due to lack 
 
 ---
 
-## 🧰 Tools & Materials Used
+## Tools & Materials Used
 
 - Heat shrink tubing  
 - Ring terminals  
@@ -70,25 +70,24 @@ This failure occurred mid-route, creating a **serious road hazard** due to lack 
 
 ---
 
-## 📸 Reference Images
+## Reference Images
 
-- `assets/trailer-wiring/damaged_harness_exposed.jpg`  
-- `assets/trailer-wiring/new_wire_bundle_routed.jpg`  
-- `assets/trailer-wiring/junction_box_burned.jpg`  
-- `assets/trailer-wiring/trailer_full_view.jpg`  
-- `assets/trailer-wiring/tow_vehicle_trailer_connected.jpg`
-
----
-
-## ✅ Final Outcome
-
-Trailer lighting system was restored to full operational status. All rear and side marker lights functioned correctly, and the harness was reinforced with better routing to prevent future abrasion. Junction box was upgraded to weather-sealed enclosure. Trailer was returned to service same day.
+- !(https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/trailer_full_view.jpg?raw=true) 
+- !(assets/trailer-wiring/new_wire_bundle_routed.jpg`  
+- !(assets/trailer-wiring/junction_box_burned.jpg`  
+- !(assets/trailer-wiring/trailer_full_view.jpg`  
+- !(assets/trailer-wiring/tow_vehicle_trailer_connected.jpg`
 
 ---
 
-## 💡 Lessons Learned
+## Final Outcome
+
+Trailer lighting system was restored to full operational status. All rear and side marker lights functioned correctly, and the harness was reinforced with better routing to prevent future abrasion. Junction box was upgraded to weather-sealed enclosure.
+
+---
+
+## Lessons Learned
 
 - Always **double-secure** harness routing — trailer chains can swing under force and shear cables.  
 - Heat + friction = critical failure risk — insulation only buys time.  
 - Keep emergency wiring kits and terminal hardware in long-haul tow rigs.
-
