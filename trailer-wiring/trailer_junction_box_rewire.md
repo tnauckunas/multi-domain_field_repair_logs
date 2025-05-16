@@ -34,7 +34,7 @@ All rear and side marker lights were dead. System grounding had been disrupted a
 
 ---
 
-### ⚙Step 3 – Junction Box Rebuild
+### Step 3 – Junction Box Rebuild
 - Removed melted junction box and all burned terminals.  
 - Installed new weather-resistant box with rubber grommets.  
 - Re-terminated all 7 wires using heat-shrink ring terminals, color-coded to standard:
