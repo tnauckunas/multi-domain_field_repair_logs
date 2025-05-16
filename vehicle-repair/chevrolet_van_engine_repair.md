@@ -69,5 +69,9 @@
 
 ---
 
-> 🔧 Mechanic: Tomas Nauckunas  
-> 🧰 Portfolio use for GitHub documentation
+> Mechanic: Tomas Nauckunas  
+> Portfolio use for GitHub documentation
+
+---
+
+_Last Updated: **May 2025**_
