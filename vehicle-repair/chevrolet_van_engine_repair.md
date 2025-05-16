@@ -17,7 +17,7 @@
   - `P0171` — System Too Lean (Bank 1)
   - `P0301` — Cylinder 1 Misfire Detected
 
-![DTC Scanner Reading - P0171, P0301](../images/chevrolet_van_engine_repair/dtc_codes_scanner.jpg)
+![DTC Scanner Reading - P0171, P0301](
 
 ## Troubleshooting & Testing
 - Inspected ignition coils and spark plugs — plugs were worn but not root cause.
@@ -31,14 +31,14 @@
 - Disconnected and labeled fuel rail, injector clips, vacuum lines, and harnesses.
 - Pulled intake manifold to access valley pan area and knock sensor harness.
 
-![Intake Manifold Removed](../images/chevrolet_van_engine_repair/engine_cover_removed.jpg)
+![Intake Manifold Removed](
 
 ### 2. Knock Sensor Replacement
 - Removed old knock sensor and inspected — corrosion present on contacts.
 - Replaced with brand new knock sensor (OEM spec).
 - Cleaned harness contacts and re-wrapped wires with heat shielding.
 
-![Knock Sensor Area - Open Valley](../images/chevrolet_van_engine_repair/knock_sensor_area.jpg)
+![Knock Sensor Area - Open Valley](
 
 ### 3. Intake Manifold Reseal
 - Reinstalled intake manifold with new gaskets.
@@ -55,7 +55,7 @@
 - Routed wires along floor and tapped into left and right turn/brake circuits.
 - Confirmed all trailer signals function using test light.
 
-![Interior trailer wiring](../images/chevrolet_van_engine_repair/trailer_wiring_install.jpg)
+![Interior trailer wiring](
 
 ---
 
