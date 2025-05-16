@@ -70,13 +70,35 @@ This failure occurred mid-route, creating a **serious road hazard** due to lack 
 
 ---
 
-## Reference Images
+<details>
+<summary>Click to Expand Full Repair Gallery</summary>
+   
+## Step-by-Step Repair Visuals
 
-- (!https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/trailer_full_view.jpg?raw=true) 
-- !(assets/trailer-wiring/new_wire_bundle_routed.jpg`  
-- !(assets/trailer-wiring/junction_box_burned.jpg`  
-- !(assets/trailer-wiring/trailer_full_view.jpg`  
-- !(assets/trailer-wiring/tow_vehicle_trailer_connected.jpg`
+### Step 1 – Damage Discovery  
+- `damaged_harness_exposed.jpg`
+  
+> Found the main harness casing melted and wires fused due to ground abrasion. No voltage across any lighting circuit.
+
+### Step 2 – Wire Replacement & Routing  
+- `new_wire_bundle_routed.jpg`
+  
+> New 7-core trailer wire pulled through and rerouted safely with clearance from all metal edges and chains.
+
+### Step 3 – Burned Junction Box  
+- `junction_box_burned.jpg`
+  
+> Opened tongue junction box. Found charred plastic, fused terminals. Full replacement required.
+
+### Step 4 – Trailer Overview During Repair  
+- `trailer_full_view.jpg`
+
+> Enclosed cargo trailer during diagnostic and repair session. 24ft Rocksolid dual axle model.
+
+### Step 5 – Final Setup Connected to Tow Vehicle  
+- `tow_vehicle_trailer_connected.jpg`
+  
+> Trailer connected to F-250 Super Duty after system test. All lighting circuits passed verification.
 
 ---
 
