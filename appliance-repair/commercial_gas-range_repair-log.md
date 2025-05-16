@@ -81,16 +81,5 @@
 
 ---
 
-## Timeline
-
-| Stage        | Date       |
-|--------------|------------|
-| Bought       | 2024-10-30 |
-| Repaired     | 2024-11-02 |
-| Cleaned      | 2024-11-03 |
-| Resold       | 2024-11-07 |
-
----
-
 ## Summary  
 Turned a broken commercial gas range into a fully functional, polished, and resold appliance with high return on investment. This log demonstrates independent troubleshooting, repair, and resale workflow with real-world customer validation.
