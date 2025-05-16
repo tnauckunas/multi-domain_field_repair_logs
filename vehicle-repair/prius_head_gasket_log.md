@@ -71,8 +71,8 @@
 
 ## Notes
 
-- This repair was completed solo, with no supervision, under pressure to have the vehicle operational within 72 hours  
+- This repair was completed solo, with no supervision, under pressure to have the vehicle operational within 48 hours  
 - No step skipped, all torque specs and sequences followed precisely  
-- Total down time: ~3 days including machine shop delay  
+- Total down time: ~2 days including machine shop delay  
 - Post-repair testing showed full resolution of symptoms and no recurrence  
 - Transmission was rebuilt prior with same self-reliant process (no images due to rush)
