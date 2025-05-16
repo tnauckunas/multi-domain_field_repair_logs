@@ -44,6 +44,3 @@ This gallery contains reference diagrams, plug maps, and electrical pinouts used
 ---
 
 ## 📎 Linked Logs That Use These Diagrams:
-
-- [`trailer_light_fault.md`](./trailer_light_fault.md)  
-- [`trailer_light_repair.md`](./trailer_light_repair.md) *(coming soon)*  
