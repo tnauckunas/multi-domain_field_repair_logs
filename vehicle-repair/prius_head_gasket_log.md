@@ -1,1 +1,80 @@
+Prius Head Gasket Replacement Log
+Vehicle: 2015 Toyota Prius
+Issue: Engine shaking, misfires, coolant loss, and check engine light (trouble code not documented due to urgency)
+Time Constraints: Repair was performed under extreme time pressure. Documentation began only during reassembly.
+Tools Used:
 
+Impact wrench
+
+Creeper
+
+LED work stand
+
+Complete hand tool set
+
+ALLDATA DIY: 2015 Prius official repair procedure
+
+Symptoms
+Rough engine idle and excessive vibration
+
+Coolant loss with no visible external leak
+
+Engine light triggered (code not saved)
+
+Imminent need for transportation forced urgent teardown without time for full photo documentation
+
+Work Summary
+Fully disassembled engine top-end including intake, throttle body, air filter box, ignition coils, valve cover, and timing chain cover
+
+Removed camshafts and cylinder head
+
+Sent cylinder head to local machine shop:
+
+Head was resurfaced (machined)
+
+Valve springs, lifters, retainers, and valve stems tested and passed
+
+Installed brand new multi-layer OEM head gasket
+
+Installed new OEM head bolts and torqued in proper multi-stage star pattern using official Toyota spec from ALLDATA
+
+All sealing surfaces cleaned and prepped
+
+Engine reassembled in full, including proper timing chain alignment and torque sequences
+
+Fluids flushed and replaced
+
+Successful startup on first ignition—no leaks, no misfires, proper idle
+
+Process Photos
+Prep and Work Area Setup
+
+
+Disassembly Begins
+
+
+Harness Documentation
+
+
+Top Cover Removed
+
+
+Cylinder Head Removal Phase
+
+
+Reference for Reassembly
+
+
+Camshaft Removal
+
+
+Notes
+This repair was completed solo, with no supervision, under pressure to have the vehicle operational within 72 hours
+
+No step skipped, all torque specs and sequences followed precisely
+
+Total down time: ~3 days including machine shop delay
+
+Post-repair testing showed full resolution of symptoms and no recurrence
+
+Transmission was rebuilt prior with same self-reliant process (no images due to rush)
