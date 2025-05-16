@@ -4,7 +4,7 @@
 **Issue:** Engine shaking, misfires, coolant loss, and check engine light (trouble code not documented due to urgency)  
 **Time Constraints:** Repair was performed under extreme time pressure. Documentation began only during reassembly.  
 **Tools Used:**  
-- Impact wrench  
+- Hand-tools  
 - Creeper  
 - LED work stand  
 - Complete hand tool set  
