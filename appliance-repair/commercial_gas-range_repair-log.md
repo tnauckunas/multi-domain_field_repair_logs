@@ -66,13 +66,6 @@
 
 ---
 
-## 📸 Photos & Media  
-- `photos/ferre-f9s60gf-in_igniter_replacement.jpg`  
-- `videos/convection_fan_test_success.mp4`  
-- `photos/burner_flame_alignment.jpg`
-
----
-
 ## Final Test Summary
 
 | Function               | Status    | Notes                       |
