@@ -57,17 +57,17 @@
 
 ## Reconditioning Phases
 
-### 🔁 **Cycle 1 — Initial Discharge**
+### **Cycle 1 — Initial Discharge**
 - **Voltage:** 189V  
 - **Discharge Current:** ~1.4A  
 - **Termination Voltage:** 105V  
 
-### 🔁 **Cycle 2 — Initial Recharge**
+### **Cycle 2 — Initial Recharge**
 - **Voltage:** 178V  
 - **Charge Current:** ~3.3A  
 - **Termination Voltage:** 66V  
 
-### 🔁 **Cycle 3 — Final Deep Discharge + Full Recharge**
+### **Cycle 3 — Final Deep Discharge + Full Recharge**
 - Extended the discharge to ~13V for deeper cell balancing  
 - Final recharge brought the pack back to stable baseline  
 - Charging indicators began functioning again
@@ -111,7 +111,7 @@
 
 ---
 
-## 🔧 Engine Inspection
+## Engine Inspection
 
 ### Work Performed
 - Partial disassembly of intake and throttle body.
@@ -119,7 +119,7 @@
 
 ---
 
-## 🧾 Summary
+## Summary
 
 | Task | Result |
 |------|--------|
