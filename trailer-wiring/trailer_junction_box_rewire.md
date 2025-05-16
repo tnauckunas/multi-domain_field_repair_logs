@@ -21,22 +21,22 @@ All rear and side marker lights were dead. System grounding had been disrupted a
 
 ## Repair Steps
 
-## 🔧 Repair Steps
+## Repair Steps
 
-### 🔪 Step 1 – Damaged Harness Cut & Measured
+### Step 1 – Damaged Harness Cut & Measured
 - Harness was cut from the connector side to isolate melted segments.
 - Measured for new wiring length before pulling replacements.
 
 ---
 
-### 🧰 Step 2 – Fuse Replacement
+### Step 2 – Fuse Replacement
 - Removed and inspected all inline and panel fuses.  
 - Replaced two blown 15 A blade fuses in the tow‐vehicle connector.  
 - Verified continuity and correct amperage ratings before reinstalling.
 
 ---
 
-### ⚙️ Step 3 – Junction Box Rebuild
+### ⚙Step 3 – Junction Box Rebuild
 - Removed melted junction box and all burned terminals.  
 - Installed new weather-resistant box with rubber grommets.  
 - Re-terminated all 7 wires using heat-shrink ring terminals, color-coded to standard:
