@@ -44,7 +44,7 @@ These unverified units were staged for pre-inspection. Common failure points inc
 ### ✅ Miele Washer + Dryer Stack – Fully Restored
 ![Fully repaired and cleaned high-end units](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/appliance-repairs/miele_pair_resale_ready.jpg?raw=true)
 
-This Miele washer and dryer set was acquired non-functional. The washer required drain clearing, error reset, and door latch inspection; the dryer needed vent trap and filter housing realignment. Both units were fully disassembled, cleaned, and tested across multiple cycles. Final condition shown here — ready for resale. Miele is one of the most sought-after brands in U.S. appliance markets, and this stack was brought back from discard to premium resale condition.
+This Miele washer and dryer set was acquired non-functional. The washer required drain clearing, error reset, and door latch inspection; the dryer needed vent trap and filter housing realignment. Both units were fully disassembled, cleaned, and tested across multiple cycles. Final condition shown here as ready for resale. Miele is one of the most sought-after brands in U.S. appliance markets, and this stack was brought back from discard to premium resale condition.
 
 ---
 
