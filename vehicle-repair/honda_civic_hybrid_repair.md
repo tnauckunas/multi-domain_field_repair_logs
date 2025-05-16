@@ -7,7 +7,7 @@
 - **Powertrain:** IMA Hybrid System  
 - **Issue:** Hybrid battery failure — IMA light, battery indicator stuck at zero, multiple dash warning lights
 
-![Honda Civic Exterior](
+![Honda Civic Exterior](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Honda%20Civic%20Hybrid%202006.jpg?raw=true)
 
 ---
 
@@ -19,7 +19,7 @@
 - Significant MPG drop
 - Multiple dashboard warning lights
 
-![Dashboard (Before Repair)](
+![Dashboard (Before Repair)](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Honda%20Civic%20dead%20battery.jpg?raw=true)
 
 ---
 
@@ -29,7 +29,7 @@
 - Diagnostic scan showed low hybrid charge levels
 - Solution: Reconditioning via **Prolong Deluxe Battery Reconditioning Package**
 
-![Prolong Product Overview](
+![Prolong Product Overview](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Prolong%20Hybrid%20Conditioning.jpg?raw=true)
 
 ---
 
@@ -41,9 +41,6 @@
 - Torque wrench, insulated tools, and safety gloves  
 - 12V battery disconnection prior to hybrid work  
 
-![Charger](
-![Discharger](
-
 ---
 
 ## Battery Access & Prep
@@ -54,7 +51,7 @@
 - Verified zero volts at hybrid terminals with multimeter
 - Safely connected Prolong harness
 
-![Hybrid Battery Accessed](
+![Hybrid Battery Accessed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Hybrid%20Battery%20Honda%20Civic.png?raw=true)
 
 ---
 
@@ -68,10 +65,10 @@
 ### 🔁 **Cycle 2 — Initial Recharge**
 - **Voltage:** 178V  
 - **Charge Current:** ~3.3A  
-- **Duration:** ~5 hours  
+- **Termination Voltage:** 66V  
 
 ### 🔁 **Cycle 3 — Final Deep Discharge + Full Recharge**
-- Extended the discharge to ~66V for deeper cell balancing  
+- Extended the discharge to ~13V for deeper cell balancing  
 - Final recharge brought the pack back to stable baseline  
 - Charging indicators began functioning again
 
@@ -82,14 +79,14 @@
 
 ---
 
-## 🌡️ Engine Cooling System Fix
+## Engine Cooling System Fix
 
 ### Symptoms
 - Engine overheating.
 - Radiator fan not turning on.
 - No coolant circulation symptoms.
 
-![Engine Bay Overview](
+![Engine Bay Overview](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Engine%20Overview%20Troubleshooting.jpg?raw=true)
 
 ### Troubleshooting & Fix
 
@@ -110,7 +107,7 @@
    - Fan motor removed, tested, and replaced.
    - Verified fan operation with engine on and AC active.
 
-![Fan Removed](
+![Fan Removed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Fan%20Disconnected%20and%20removed.jpg?raw=true)
 
 ---
 
@@ -119,8 +116,6 @@
 ### Work Performed
 - Partial disassembly of intake and throttle body.
 - Reassembled after flushing and repairs.
-
-![Engine Intake Removed](
 
 ---
 
