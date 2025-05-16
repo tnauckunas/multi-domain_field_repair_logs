@@ -12,7 +12,7 @@ Unit powered on, drum rotated properly, but no heat was produced during cycle. C
 
 ---
 
-## 🛠 Diagnostic Process
+## Diagnostic Process
 
 * Removed rear panel to access thermal fuse, high-limit thermostat, and heating element
 * Used multimeter to test:
