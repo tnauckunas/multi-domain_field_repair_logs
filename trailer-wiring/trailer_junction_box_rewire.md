@@ -21,8 +21,6 @@ All rear and side marker lights were dead. System grounding had been disrupted a
 
 ## Repair Steps
 
-## Repair Steps
-
 ### Step 1 – Damaged Harness Cut & Measured
 - Harness was cut from the connector side to isolate melted segments.
 - Measured for new wiring length before pulling replacements.
