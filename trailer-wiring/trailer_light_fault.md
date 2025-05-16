@@ -1,115 +1,75 @@
-# Trailer Light Failure – Burned Harness & Junction Box Repair  
-**Project Type:** Emergency roadside electrical repair  
-**Location:** San Diego County, California  
+# Trailer Light System Failure – Burned Wiring Pre-Diagnosis  
+**Project Stage:** Damage documentation before repair  
 **Date:** June 20–25, 2024  
+**Location(s):**  
+- 1031 Neptune Drive, Chula Vista, CA  
+- 5940 Fairmount Avenue, San Diego, CA  
 **Technician:** Tomas Nauckunas  
-**Trailer Type:** Enclosed 24ft Rocksolid Cargo Trailer (dual axle)  
 **Tow Vehicle:** Ford F-250 Super Duty  
+**Trailer:** 24ft Rocksolid Enclosed Cargo Trailer  
 
 ---
 
-## Problem Summary
+## Incident Summary
 
-While hauling the enclosed cargo trailer uphill on one of the hottest days in San Diego, the trailer lighting system suddenly failed — including all tail lights, brake lights, and night-running lights.
+During a heavy-load haul through San Diego County on one of the hottest days of the year, the trailer lighting system fully failed — including tail lights, brake lights, and night-running lights.
 
-Upon inspection, the main wiring harness had **dragged against the pavement**, exposing internal wires. The outer casing was **melted**, and heat damage had **burned through adjacent wires**, creating shorts. The **junction box** at the trailer tongue was also visibly scorched.
-
-This failure occurred mid-route, creating a **serious road hazard** due to lack of visibility and brake signal function.
-
----
-
-## Diagnostic Process
-
-- Visual inspection of exposed harness confirmed **heat wear, grinding, and multiple exposed conductors**.
-- Used multimeter to check continuity between pin outputs and light inputs — no voltage to rear cluster.
-- Opened tongue junction box — found **charred insulation, melted terminals, and cross-wire fusion**.
-- Verified the breakaway system was unaffected and isolated from damaged wiring.
+Upon stopping for inspection, multiple failure points were identified:
+- The trailer harness had **dragged on pavement**, severely **melting and exposing conductors**.
+- Multiple internal wires were **burned and fused**, including **ground, tail, and brake wires**.
+- The trailer’s **junction box** was heat-damaged and partially melted.
+- The **rear light assembly** was no longer receiving any power.
+- All exterior lights on the trailer were non-functional, creating a dangerous driving scenario.
 
 ---
 
-## Repair Process
+## Visual Evidence & Damage Documentation
 
-1. **Harness Replacement**
-   - Cut out ~3 feet of burned cable including melted junction segment.
-   - Pulled new 7-core trailer wire through protective sleeve and re-routed with additional clearance from chains and moving components.
+### 1. Exposed Trailer Harness – Severe Burn Damage  
+![Exposed and melted trailer harness](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/damaged_harness_exposed.jpg?raw=true)
 
-2. **Junction Box Rebuild**
-   - Removed and replaced damaged plastic junction box.
-   - Terminated all wires with heat-shrink ring connectors.
-   - Rewired according to standard color map:
-     - Brown – Tail/Running
-     - Yellow – Left Turn
-     - Green – Right Turn
-     - Red – Brake
-     - White – Ground
-     - Blue – Electric Brake
-     - Black – 12V Charge
-
-3. **Testing**
-   - Used tow vehicle with working 7-pin connector for live testing.
-   - Verified each light function individually:
-     - Brake: ✅
-     - Left/Right Turn: ✅
-     - Tail Lights: ✅
-     - Reverse: ✅ (if equipped)
-     - Clearance/Marker Lights: ✅
-   - Secured all wire paths with cable clamps and zip ties.
+> Insulation completely ground off. Bare copper exposed. All wire paths compromised.
 
 ---
 
-## Tools & Materials Used
-
-- Heat shrink tubing  
-- Ring terminals  
-- Heat gun  
-- Electrical tape  
-- Crimping tool  
-- Zip ties + rubber grommets  
-- 7-core trailer cable  
-- Multimeter  
+### 2. Burned Junction Box – Tongue Location  
+![Junction box showing melted terminals](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/junction_box_burned.jpg?raw=true)
+> Internal heat damage to wiring terminal area. System integrity broken.
 
 ---
 
-<details>
-<summary>Click to Expand Full Repair Gallery</summary>
-   
-## Step-by-Step Repair Visuals
-
-### Step 1 – Damage Discovery  
-- `damaged_harness_exposed.jpg`
-  
-> Found the main harness casing melted and wires fused due to ground abrasion. No voltage across any lighting circuit.
-
-### Step 2 – Wire Replacement & Routing  
-- `new_wire_bundle_routed.jpg`
-  
-> New 7-core trailer wire pulled through and rerouted safely with clearance from all metal edges and chains.
-
-### Step 3 – Burned Junction Box  
-- `junction_box_burned.jpg`
-  
-> Opened tongue junction box. Found charred plastic, fused terminals. Full replacement required.
-
-### Step 4 – Trailer Overview During Repair  
-- `trailer_full_view.jpg`
-
-> Enclosed cargo trailer during diagnostic and repair session. 24ft Rocksolid dual axle model.
-
-### Step 5 – Final Setup Connected to Tow Vehicle  
-- `tow_vehicle_trailer_connected.jpg`
-  
-> Trailer connected to F-250 Super Duty after system test. All lighting circuits passed verification.
+### 3. Rear Trailer Lights Not Functioning  
+![Rear lights not working due to power loss](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/rear_lights_not_working.jpg?raw=true)
+> Zero voltage to rear marker or brake/tail circuits. Green, white, and blue wires visibly burned.
 
 ---
 
-## Final Outcome
-
-Trailer lighting system was restored to full operational status. All rear and side marker lights functioned correctly, and the harness was reinforced with better routing to prevent future abrasion. Junction box was upgraded to weather-sealed enclosure.
+### 4. Wire Routing Shot – Tow End (Before Repair)  
+![Tow-end wiring with burned leads exposed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/tow_vehicle_trailer_wired_burned.jpg?raw=true)
+> Cable entry point toward junction box. Tracing burned wire paths confirmed failure throughout full length.
 
 ---
 
-## Lessons Learned
+### 5. Full Trailer Overview During Incident  
+![24ft Rocksolid enclosed trailer overview](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/trailer_full_view.jpg?raw=true)
+> Rocksolid 24ft cargo unit towed by Ford F-250. Trailer parked awaiting repair sequence.
 
-- Always **double-secure** harness routing — trailer chains can swing under force and shear cables.  
-- Heat + friction = critical failure risk — insulation only buys time.  
-- Keep emergency wiring kits and terminal hardware in long-haul tow rigs.
+---
+
+## Status: Awaiting Full Repair  
+This `.md` file documents full visual pre-repair damage only.  
+A separate repair log will be created after complete harness and junction system replacement.
+
+**Next Action:**  
+- Cut damaged wiring  
+- Rewire using 7-core marine-grade trailer harness  
+- Replace junction box and confirm ground/voltage at rear light clusters  
+- Full test cycle (brake, turn, night-running lights)
+
+---
+
+## Notes  
+- Critical takeaway: Always inspect for **harness clearance near chains**  
+- Drag + heat can cause catastrophic system-wide electrical failure in minutes  
+- This log serves as a **before/after reference anchor** for multi-phase trailer jobs
+
