@@ -51,7 +51,6 @@ The following diagram was used as the primary guide for verifying outlet wiring 
 
 ---
 
-**File: `safety_test_notes.md`**  
 **Completed:** 2024  
 **Verified by:** Tomas Nauckunas
 
