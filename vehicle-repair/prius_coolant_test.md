@@ -3,7 +3,7 @@
 **Vehicle:** 2015 Toyota Prius (3rd Gen)  
 **Type:** Hybrid Hatchback  
 **Test Date:** [Insert Date]  
-**Location:** [San Diego, California log]
+**Location:** San Diego, California
 
 ---
 
