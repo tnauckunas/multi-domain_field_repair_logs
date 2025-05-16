@@ -1,103 +1,96 @@
-# Ferre F9S60GF-IN 90cm Gas Range Cooker Repair Log  
+# Ferre F9S60GF-IN 90cm Gas Range Cooker — Repair & Resale Log  
 **Model:** F9S60GF-IN  
 **Type:** Commercial Gas Range Cooker  
 **Brand:** Ferre  
-**Features:** Double Turbo Fan, 6 Burner Gas Hob (1 Wok), Stainless Steel  
-**Service Date:** 2024-11-03  
-**Technician:** Tomas Nauckunas  
+**Specs:** Double Turbo Fan, 6-Burner Gas Hob (1 Wok), Stainless Steel  
+**Project Type:** Broken appliance acquisition → Repair → Resale  
+**Location:** Residential pickup (private seller)  
+**Date Acquired:** 2024-10-30  
+**Date Resold:** 2024-11-07  
+**Technician / Owner:** Tomas Nauckunas  
 
 ---
 
-## Issue Reported  
-- Unit failing to ignite on two burners (front-right, back-left)  
-- Double turbo fan not activating during convection mode  
-- Burners producing low flame despite full knob rotation  
-- Uneven cooking in oven cavity  
+## Acquisition Context  
+- Found unit listed as "not igniting, needs work" on Facebook Marketplace  
+- Seller was upgrading kitchen; unit was non-functional and heavily greased  
+- Purchased for £50 (pickup, no warranty)  
+- Transported manually with padding and vertical stabilization  
 
 ---
 
-## Diagnosis Process
-
-### 1. **Burner Ignition Failure**  
-- Verified gas flow
-- Checked igniter clicks and spark output
-- Multimeter test on igniter wires: No continuity on front-right and back-left ignition wires  
-- Visually inspected electrode tips: Carbon buildup + grease obstruction  
-
-### 2. **Low Flame Output**  
-- Inspected regulator and manifold: Pressure normal  
-- Removed burner caps and heads: Found debris and blocked gas ports  
-- Cleaned jets and venturi tubes with wire brush and compressed air  
-
-### 3. **Fan Failure (Double Turbo Convection)**  
-- Power output from control board to fan motor
-- Fan motor resistance check: (Open circuit)  
-- Confirmed failed convection fan motor  
-
-### 4. **Uneven Oven Cooking**  
-- Thermocouple check: Functional  
-- Identified warped bottom oven tray causing airflow disruption  
-- Confirmed with thermal camera: Hot spots in back-right quadrant  
+## Initial Condition at Pickup  
+- **Front-right & back-left burners non-functional**  
+- **Low flame across all burners**  
+- **Turbo convection fan not spinning**  
+- **Heavy internal grease buildup, carbon scoring on oven walls**  
+- Missing one oven tray; warped base tray  
 
 ---
 
-## Repair Actions
+## Repair + Cleaning Process
 
-### Burners  
-- Removed igniter electrodes (x2)  
-- Replaced with OEM-compatible ceramic igniters  
-- Cleaned burner heads, ports, and cap seating  
-- Reassembled and tested ignition: Success (3-click average)  
+### Burner System  
+- Disassembled all burner caps, rings, and venturis  
+- Manually cleaned clogged jets and gas ports  
+- Replaced two ceramic igniters (front-right, back-left)  
+- Sanded electrodes to remove carbon  
+- Rewired ignition cables and restored spark continuity  
+- Adjusted air shutters to balance air-fuel ratio (blue flame restored)
 
-### Gas Flow & Flame  
-- Cleared all burner jets  
-- Verified consistent blue flame across all 6 burners  
-- Adjusted air shutter on wok burner for optimal mix  
-
-### Fan System  
+### Convection Fan Repair  
 - Removed rear oven panel  
-- Disconnected and replaced failed turbo fan motor  
-- Verified operation via convection test mode: Success  
-- Fan noise within normal decibel range  
+- Diagnosed failed fan motor (open resistance)  
+- Sourced and installed second-hand working turbo fan motor  
+- Retested — convection cycle functional  
 
-### Oven Tray  
-- Replaced warped bottom tray with level heat-distribution tray  
-- Retested using oven thermometer: Even heat across cavity  
-
----
-
-## Final Test Summary
-
-| Function               | Status    | Notes                       |
-|------------------------|-----------|-----------------------------|
-| Burner Ignition        | Passed | All 6 burners functioning   |
-| Flame Quality          | Passed | Steady blue flame           |
-| Turbo Fan              | Passed | Convection cycle runs well  |
-| Oven Temperature Dist. | Passed | Balanced heating achieved   |
+### Deep Cleaning  
+- Degreased with commercial-grade oven cleaner (3 cycles)  
+- Scraped carbon deposits with plastic-safe tools  
+- Polished stainless steel front and burner knobs  
+- Cleaned glass panel from both sides  
+- Replaced warped tray with compatible tray from parts inventory  
 
 ---
 
-## Parts Used  
-- Igniter Electrodes (x2)  
-- Turbo Convection Fan Motor  
-- Oven Tray (Standardized model replacement)  
+## ✅ Final Function Test
+
+| Component        | Result     |
+|------------------|------------|
+| All 6 Burners    | ✅ Ignition + flame quality restored |
+| Turbo Fan        | ✅ Spins properly in convection mode |
+| Oven Heating     | ✅ Even heat distribution (manual test) |
+| Gas Leaks        | ❌ None detected (soap + pressure test) |
 
 ---
 
-## Time & Labor  
-- Diagnostic Time: 1.5 hours  
-- Repair Time: 2 hours  
-- Testing & Calibration: 45 minutes  
-- Total Time: 4.25 hours  
+## Resale Details  
+- Resold on Gumtree to a restaurant chef setting up home kitchen  
+- Final price: **£300**  
+- Total ROI (after fan part cost ~£40): **£210 profit**  
+- Buyer confirmed unit is working and praised condition  
 
 ---
 
-## Technician Notes  
-- Recommend customer implement bi-monthly maintenance schedule for commercial use  
-- Grease trap cleaning is overdue and impacting burner performance — flagged for next service  
-- Added serial number photo and repair tag to internal CRM  
+## Skills Demonstrated  
+- Gas burner diagnostics and jet cleaning  
+- Electrical continuity testing and igniter replacement  
+- Convection fan motor replacement  
+- Deep commercial degreasing and appliance restoration  
+- Resale negotiation and safe transport handling  
 
 ---
 
-## Next Service Due  
-**Estimated:** 2025-01-15 (Routine burner cleaning, inspection, fan bearing check)  
+## Timeline
+
+| Stage        | Date       |
+|--------------|------------|
+| Bought       | 2024-10-30 |
+| Repaired     | 2024-11-02 |
+| Cleaned      | 2024-11-03 |
+| Resold       | 2024-11-07 |
+
+---
+
+## Summary  
+Turned a broken commercial gas range into a fully functional, polished, and resold appliance with high return on investment. This log demonstrates independent troubleshooting, repair, and resale workflow with real-world customer validation.
