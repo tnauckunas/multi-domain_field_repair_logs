@@ -94,5 +94,5 @@ Trailer electrical system was restored to safe working condition. Ground fault e
 
 ## Related Logs
 
-- [`trailer_light_fault.md`]([./trailer_light_fault.m](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/fad056f448a11c1a518a7b821cbe1745301125fd/trailer-wiring/trailer_light_fault.md)d) – Incident & Diagnosis  
-- [`trailer_wiring_gallery.md`]([./trailer_wiring_gallery.md](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/fad056f448a11c1a518a7b821cbe1745301125fd/trailer-wiring/trailer_wiring_gallery.md)) – Reference Diagrams & Pinouts  
+- [`trailer_light_fault.md`](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/6cd1208712d06fa08eacfed157040fef7d37ec42/trailer-wiring/trailer_light_fault.md)
+- [`trailer_wiring_gallery.md`](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/fad056f448a11c1a518a7b821cbe1745301125fd/trailer-wiring/trailer_wiring_gallery.md) – Reference Diagrams & Pinouts  
