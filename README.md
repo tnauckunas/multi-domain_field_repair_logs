@@ -8,7 +8,7 @@ Welcome to my comprehensive portfolio of hands-on mechanical, electrical, and di
 
 Repairs ranging from hybrid system restoration to full mechanical disassembly. Includes documentation and photographic records.
 
-- [Chevrolet Van Engine Rebuild](./vehicle-repair/chevrolet_van_engine_repair.md)
+- [Chevrolet Van Engine Repair](./vehicle-repair/chevrolet_van_engine_repair.md)
 - [2006 Honda Civic Hybrid Battery & Cooling Fix](./vehicle-repair/honda_civic_hybrid_repair.md)
 - [2015 Toyota Prius Coolant Test](./vehicle-repair/prius_coolant_test.md)
 - [2015 Toyota Prius Head Gasket Replacement](./vehicle-repair/prius_head_gasket_log.md)
