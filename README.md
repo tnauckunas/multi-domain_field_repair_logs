@@ -1,10 +1,10 @@
-# 🛠️ Multi-Domain Field Repair Logs
+# Multi-Domain Field Repair Logs
 
 Welcome to my comprehensive portfolio of hands-on mechanical, electrical, and diagnostic repair logs across multiple domains. Each project includes real photos, step-by-step notes, and verified results from real-world scenarios.
 
 ---
 
-## 🔧 Vehicle Repairs
+## Vehicle Repairs
 
 Repairs ranging from hybrid system restoration to full mechanical disassembly. Includes documentation and photographic records.
 
@@ -17,7 +17,7 @@ Repairs ranging from hybrid system restoration to full mechanical disassembly. I
 
 ---
 
-## ⚡ Home Electrical Repairs
+## Home Electrical Repairs
 
 Live outlet wiring, safety testing, and full installation in residential environments. Images and safety diagrams included.
 
@@ -25,7 +25,7 @@ Live outlet wiring, safety testing, and full installation in residential environ
 
 ---
 
-## 🔌 Trailer Wiring Repairs
+## Trailer Wiring Repairs
 
 Wiring fault diagnosis, junction box rewire, and light circuit restoration for road trailers.
 
@@ -35,7 +35,7 @@ Wiring fault diagnosis, junction box rewire, and light circuit restoration for r
 
 ---
 
-## 🔧 Appliance Repairs
+## Appliance Repairs
 
 Commercial and residential appliance troubleshooting and fixes.
 
@@ -46,6 +46,6 @@ Commercial and residential appliance troubleshooting and fixes.
 
 ---
 
-## 🔍 About
+## About
 
 Every repair documented in this repository was personally completed, photographed, and logged to provide transparent proof of skills and real-world problem solving. No stock photos. Only firsthand field experience and learned mastery.
