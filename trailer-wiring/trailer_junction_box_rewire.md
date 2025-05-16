@@ -62,14 +62,14 @@ All rear and side marker lights were dead. System grounding had been disrupted a
 
 ---
 
-## 📸 Visuals Documentation
+## Visuals Documentation
 
 ### Before – Ground Damage + Open Harness  
 ![Burned junction box with exposed leads](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/damaged_harness_exposed.jpg?raw=true)
 
 ---
 
-### 🔧 During – Junction Box Rebuilt with Fresh Terminations  
+### During – Junction Box Rebuilt with Fresh Terminations  
 ![New junction box with loom and terminals](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/trailer-wiring/trailer_ground_fix.jpg?raw=true)
 
 > Full re-termination of all 7 wires into new waterproof junction. Strain reliefs added. Heat-shrink and loom used for long-term durability.
