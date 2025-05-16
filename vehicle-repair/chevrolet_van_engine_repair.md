@@ -66,7 +66,7 @@
 - Multiple components had to be maneuvered in tight quarters; careful labeling of connections was key.
 - Total repair time: ~6 hours including testing and cleanup.
 
-**Photos stored under:** (assets/vehicle-repair/images/chevrolet_van)
+**Photos stored under:** ![](assets/vehicle-repair/images/chevrolet_van)
 
 ---
 
