@@ -14,7 +14,7 @@
 ## Acquisition Context  
 - Found unit listed as "not igniting, needs work" on Facebook Marketplace  
 - Seller was upgrading kitchen; unit was non-functional and heavily greased  
-- Purchased for £50 (pickup, no warranty)  
+- Purchased for £75 (pickup, no warranty)  
 - Transported manually with padding and vertical stabilization  
 
 ---
