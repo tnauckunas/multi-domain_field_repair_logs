@@ -13,7 +13,7 @@ Repairs ranging from hybrid system restoration to full mechanical disassembly. I
 - [2015 Toyota Prius Coolant Test](./vehicle-repair/prius_coolant_test.md)
 - [2015 Toyota Prius Head Gasket Replacement](./vehicle-repair/prius_head_gasket_log.md)
 - [Coworker Crash Repair Assist (Radiator + Frame Work)](./vehicle-repair/coworker_crash_repair_assist.md)
-- [📸 Vehicle Repair Gallery](./vehicle-repair/vehicle_repair_gallery.md)
+- [Vehicle Repair Gallery](./vehicle-repair/vehicle_repair_gallery.md)
 
 ---
 
@@ -31,7 +31,7 @@ Wiring fault diagnosis, junction box rewire, and light circuit restoration for r
 
 - [Junction Box Full Rewire](./trailer-wiring/trailer_junction_box_rewire.md)
 - [Trailer Light Fault Troubleshooting](./trailer-wiring/trailer_light_fault.md)
-- [📸 Trailer Wiring Repair Gallery](./trailer-wiring/trailer_wiring_gallery.md)
+- [Trailer Wiring Repair Gallery](./trailer-wiring/trailer_wiring_gallery.md)
 
 ---
 
@@ -42,7 +42,7 @@ Commercial and residential appliance troubleshooting and fixes.
 - [Gas Range Commercial Repair](./appliance-repair/commercial_gas-range_repair-log.md)
 - [Dryer Not Heating Fix](./appliance-repair/dryer_not_heating.md)
 - [Washer Drain Pump Fix](./appliance-repair/washer_drain_fix.md)
-- [📸 Appliance Repair Gallery](./appliance-repair/appliance_repair_gallery.md)
+- [Appliance Repair Gallery](./appliance-repair/appliance_repair_gallery.md)
 
 ---
 
