@@ -62,7 +62,7 @@ Final product stage. Cleaned, tested, and photographed for listing. Both passed 
 
 ---
 
-## ✅ Outcome
+## Outcome
 
 - Units acquired in non-working condition  
 - Fully repaired using diagnostic + manual disassembly  
