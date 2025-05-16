@@ -73,7 +73,7 @@ All rear and side marker lights were dead. System grounding had been disrupted a
 
 ---
 
-### Final Light System Verification Video
+### Final Light System Verification
 **Video:** [Full Lighting System Test – All Functions Pass](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/bfba1c388dce2dba971dbffe13eafb74a8c525ae/assets/trailer-wiring/rear_lights_working.mp4)
 
 ---
