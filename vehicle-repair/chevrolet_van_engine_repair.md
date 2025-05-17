@@ -3,7 +3,7 @@
 ## Vehicle Info
 - **Make & Model**: Chevrolet Express 2500
 - **Engine**: Vortec V6
-- **Year**: ~2006
+- **Year**: 2006
 
 ## Initial Symptoms
 - Rough idle
