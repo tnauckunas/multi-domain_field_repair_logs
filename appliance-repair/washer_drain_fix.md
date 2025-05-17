@@ -41,6 +41,7 @@ Unit received in non-functional state with standing water in the drum. Initial i
 
 
 ✅ Washer passed 30-minute test run with 3 towel load
+
 ✅ Drum spin normal, pump noise resolved, no standing water
 
 ---
