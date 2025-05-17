@@ -1,10 +1,7 @@
-# Washer Drain Fix Log
-
-**Technician:** Tomas Nauckunas
-
-**Location:** Open-air repair yard, California, USA
-
-**Period:** 2023–2024
+# Washer Drain Fix Log  
+**Technician:** Tomas Nauckunas  
+**Location:** Open-air repair yard, California, USA  
+**Period:** 2023–2024  
 
 ---
 
