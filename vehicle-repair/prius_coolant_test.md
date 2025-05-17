@@ -39,7 +39,7 @@
 ## Action Taken
 
 - **Head gasket confirmed blown.**  
-- Performed head gasket replacement and cylinder head machining (see [Head Gasket Log](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/5688a43d19d9ab795c00148775f4a3e8bb6d7955/vehicle-repair/prius_head_gasket_log.md))
+- Performed head gasket replacement and cylinder head machining (see [Head Gasket Log](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/6961f3064bacb5c65b3acd6884991e02c634ae11/vehicle-repair/prius_head_gasket_log.md)
 - Refilled coolant with Toyota OEM pink coolant  
 - Bled air using factory procedure: heater full on, engine at idle with front lifted  
 - Road-tested successfully for 30+ minutes at varied loads  
