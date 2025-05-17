@@ -1,6 +1,5 @@
 # Trailer Ground Wire Rebuild + Full Junction Box Repair  
 **Project Type:** Trailer Electrical System Ground & Junction Box Restoration  
-**Location:** 5940 Fairmount Avenue, San Diego County, California  
 **Date:** June 25, 2024  
 **Technician:** Tomas Nauckunas  
 **Trailer:** Rocksolid 24ft Enclosed Cargo Trailer  
