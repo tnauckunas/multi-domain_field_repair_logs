@@ -1,10 +1,7 @@
-# Dryer Not Heating Log
-
-**Technician:** Tomas Nauckunas
-
-**Location:** Open-air repair yard, California, USA
-
-**Period:** 2023–2024
+# Dryer Not Heating Log  
+**Technician:** Tomas Nauckunas  
+**Location:** Open-air repair yard, California, USA  
+**Period:** 2023–2024  
 
 ---
 
@@ -44,11 +41,9 @@ Unit powered on, drum rotated properly, but no heat was produced during cycle. C
 * Measured air temp at vent \~145°F during peak
 * Completed 30-minute cycle with dry towel test load
 
-✅ Heating fully restored
-
-✅ No thermal cutoff trip
-
-✅ Coil visually glowing and cycling correctly
+✅ Heating fully restored  
+✅ No thermal cutoff trip  
+✅ Coil visually glowing and cycling correctly  
 
 ---
 
