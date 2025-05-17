@@ -9,7 +9,7 @@
 
 ## Incident Summary
 
-During a heavy-load haul through San Diego County on one of the hottest days of the year, the trailer lighting system fully failed — including tail lights, brake lights, and night-running lights.
+During a heavy-load haul through San Diego County on one of the hottest days of the year, the trailer lighting system fully failed including tail lights, brake lights, and night-running lights.
 
 Upon stopping for inspection, multiple failure points were identified:
 - The trailer harness had **dragged on pavement**, severely **melting and exposing conductors**.
