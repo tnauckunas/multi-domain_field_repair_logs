@@ -39,9 +39,8 @@ Unit received in non-functional state with standing water in the drum. Initial i
 * Drain completed within normal time (under 2 minutes)
 
 
-✅ Washer passed 30-minute test run with 3 towel load
-
-✅ Drum spin normal, pump noise resolved, no standing water
+✅ Washer passed 30-minute test run with 3 towel load  
+✅ Drum spin normal, pump noise resolved, no standing water  
 
 ---
 
