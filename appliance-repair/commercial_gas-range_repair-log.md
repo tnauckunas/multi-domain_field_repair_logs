@@ -1,7 +1,5 @@
-# Ferre F9S60GF-IN 90cm Gas Range Cooker — General Repair Log  
-**Model:** F9S60GF-IN  
-**Type:** Commercial Gas Range Cooker  
-**Brand:** Ferre  
+# Commercial Gas Range Cooker — General Repair Log  
+**Type:** Commercial Gas Range Oven and Stove 
 **Specs:** Double Turbo Fan, 6-Burner Gas Hob, Stainless Steel  
 **Technician:** Tomas Nauckunas  
 
@@ -21,7 +19,7 @@
 
 ### Burner Ignition  
 - Check igniter electrodes for carbon buildup or physical damage  
-- Test continuity on igniter wires — replace if open circuit  
+- Test continuity on igniter wires, replace if open circuit  
 - Clean burner heads, jets, and venturi tubes with brush + compressed air  
 - Verify spark function (visible spark and audible click)  
 - Adjust air shutters for proper flame mix  
@@ -34,7 +32,7 @@
 
 ### Convection Fan  
 - Remove rear oven panel to access turbo fan motor  
-- Test motor resistance — replace if open or seized  
+- Test motor resistance, replace if open or seized  
 - Check wiring from control board to motor  
 - Test in convection mode after replacement  
 
@@ -70,6 +68,7 @@
 
 ## Notes  
 This log reflects repeatable diagnostic and repair procedures for Ferre F9S60GF-IN models and similar commercial gas cookers.  
+
 Emphasis placed on restoring safety, full burner functionality, and consistent oven performance without reliance on external service support.  
 
 ---
