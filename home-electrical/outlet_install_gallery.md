@@ -3,19 +3,19 @@
 ## Outlet Installation Overview
 
 **Project:** New outlet installation for studio conversion  
-**Scope:** Wired and installed multiple standard 15A duplex outlets across newly finished wall and living area  
-**Location:** Laundry wall, bedroom zone, breaker-fed layout  
+**Scope:** Wired and installed many standard 15A duplex outlets across newly finished wall and living area  
+**Location:** Kitchen wall, Laundry wall, bedroom zone, breaker-fed layout  
 **Objective:** Ensure each outlet was securely wired, grounded, and spaced cleanly
 
 ### Installation Gallery
 
-#### Outlet Close-Up — Line/Neutral Connections  
+#### Outlet Close-Up Line/Neutral Connections  
 ![Outlet Wiring Front View](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/home-electrical/Other%20side%20of%20the%20outlet.jpg?raw=true)
 
-#### Outlet Close-Up — Ground Screw and Back Wiring  
+#### Outlet Close-Up Ground Screw and Back Wiring  
 ![Outlet Ground Wire Side](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/home-electrical/Installing%20Outlets.jpg?raw=true)
 
-#### Outlet Location — Laundry Section  
+#### Outlet Location Laundry Section  
 ![Laundry Wall Overview](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/home-electrical/Overview%20Electrical%20Outlets%20Installs.jpg?raw=true)
 
 #### Final Room Condition Post Install  
