@@ -4,10 +4,9 @@
 **Issue:** Engine shaking, misfires, coolant loss, and check engine light (trouble code not documented due to urgency)  
 **Time Constraints:** Repair was performed under extreme time pressure. Documentation began only during reassembly.  
 **Tools Used:**  
-- Hand-tools  
+- Complete hand tool set  
 - Creeper  
 - LED work stand  
-- Complete hand tool set  
 - ALLDATA DIY: 2015 Prius official repair procedure  
 
 ---
@@ -33,7 +32,7 @@
 - All sealing surfaces cleaned and prepped  
 - Engine reassembled in full, including proper timing chain alignment and torque sequences  
 - Fluids flushed and replaced  
-- Successful startup on first ignition—no leaks, no misfires, proper idle
+- Successful startup on first ignition no leaks, no misfires, proper idle
 
 ---
 
