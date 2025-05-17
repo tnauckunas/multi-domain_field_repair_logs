@@ -1,7 +1,6 @@
 # Appliance Repair Gallery  
 **Technician:** Tomas Nauckunas  
 **Scope:** Residential washer and dryer repair, restoration, and sale prep  
-**Photoset:** 5–8 curated images  
 **Period:** 2022–2025
 
 ---
@@ -9,7 +8,7 @@
 ### Open-Air Repair Yard – Multi-System Station  
 ![Multiple washers and dryers staged in open repair zone](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/appliance-repairs/open_yard_multiple_units.jpg?raw=true) 
 
-This open-air repair zone was used to triage, diagnose, and clean over 10 separate machines. Each unit had different failure points — from drain pump clogs to blown thermal fuses and was assessed individually. Tools, power, and hose connections were routed for mobile access and on-the-fly testing.
+This open-air repair zone was used to triage, diagnose, and clean over 10 separate machines. Each unit had different failure points from drain pump clogs to blown thermal fuses and was assessed individually. Tools, power, and hose connections were routed for mobile access and on-the-fly testing.
 
 ---
 
