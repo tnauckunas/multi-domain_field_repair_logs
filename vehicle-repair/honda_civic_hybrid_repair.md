@@ -5,7 +5,7 @@
 - **Make & Model:** Honda Civic Hybrid  
 - **Year:** 2006  
 - **Powertrain:** IMA Hybrid System  
-- **Issue:** Hybrid battery failure — IMA light, battery indicator stuck at zero, multiple dash warning lights
+- **Issue:** Hybrid battery failure IMA light, battery indicator stuck at zero, multiple dash warning lights
 
 ![Honda Civic Exterior](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Honda%20Civic%20Hybrid%202006.jpg?raw=true)
 
@@ -25,7 +25,7 @@
 
 ## Diagnostic & Research
 
-- Battery degradation confirmed — typical with older NiMH packs
+- Battery degradation confirmed and typical with older NiMH packs
 - Diagnostic scan showed low hybrid charge levels
 - Solution: Reconditioning via **Prolong Deluxe Battery Reconditioning Package**
 
@@ -92,15 +92,15 @@
 
 1. **Cooling System Flow Test**
    - Verified coolant levels.
-   - Ran engine and monitored for flow — found no coolant circulating.
+   - Ran engine and monitored for flow and found no coolant circulating.
 
 2. **Thermostat Inspection**
-   - Removed thermostat and tested in boiling water — confirmed it was stuck closed.
+   - Removed thermostat and tested in boiling water and confirmed it was stuck closed.
    - Replaced thermostat with new OEM-spec unit.
 
 3. **Fan System Diagnosis**
-   - Checked relays and fuses — all tested OK.
-   - Applied 12V directly to fan motor — confirmed failure.
+   - Checked relays and fuses and all tested OK.
+   - Applied 12V directly to fan motor and confirmed failure.
    - Replaced fan motor assembly.
 
 ![Fan Removed](https://github.com/tnauckunas/multi-domain_field_repair_logs/blob/main/assets/vehicle-repair/images/honda_civic_2006/Fan%20Disconnected%20and%20removed.jpg?raw=true)
