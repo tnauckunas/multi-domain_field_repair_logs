@@ -26,7 +26,7 @@ My coworker crashed his Honda CR-V and faced several thousand dollars in potenti
   - Bent support brackets
 - Retrieved matching parts from a local junkyard.
 - I guided the disassembly and ensured proper replacement fitment.
-- The goal was **education + execution** — he did the hands-on work, I provided oversight and technical support.
+- The goal was **education + execution** He did the hands-on work, I provided oversight and technical support.
 
 ---
 
